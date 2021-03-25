@@ -1,0 +1,124 @@
+2021-03-25 22:18:23 [scrapy] DEBUG: Redirecting (301) to <GET https://www.amazon.es/None/s?k=None> from <GET https://www.amazon.es/s?k=None&ref=nb_sb_noss_2>
+2021-03-25 22:18:24 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.es/None/s?k=None> (referer: None)
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 1, 'name': 'The Big Lebowski', 'price': '3,99', 'image': 'https://m.media-amazon.com/images/I/91GJAp6z2TL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.a8b3cf40-76d5-f4bd-2db4-194ceafbcaeb%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WK8VBZS&ref=sr_1_1&keywords=None&sr=8-1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 2, 'name': 'The Big Lebowski', 'price': '3,99', 'image': 'https://m.media-amazon.com/images/I/91GJAp6z2TL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.a8b3cf40-76d5-f4bd-2db4-194ceafbcaeb%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WK8VBZS&ref=sr_1_1&keywords=None&sr=8-1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 3, 'name': 'Bosch Season 3', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/91jiqFfxmIL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.c4ada2d6-c823-2e2a-b3b4-39e90e57fdde%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WH2D9RM&ref=sr_1_2&keywords=None&sr=8-2', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 4, 'name': 'Covert Affairs', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/91aMJHs3uTL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.54b026ef-54b6-eca5-a4fc-afac894e673f%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WH4GD6B&ref=sr_1_3&keywords=None&sr=8-3', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 5, 'name': 'Supernatural - Season 6', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/81MRTuZ7yOL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.1ab2809e-9dbd-9c94-43dd-bb39e5b239f2%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B082FT73HL&ref=sr_1_4&keywords=None&sr=8-4', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 6, 'name': "S´Nonas S'Nonas Crema Hidratante Glicerinada Manos, 250 ml, Pack de 1", 'price': '1,85', 'image': 'https://m.media-amazon.com/images/I/71-6m5URHnL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/SNonas-Crema-para-manos-u%C3%B1as/dp/B07DHN7QBZ?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 7, 'name': 'SAPIENS, ma non troppo: Síntomas sin explicación médica', 'price': '26,00', 'image': 'https://m.media-amazon.com/images/I/71JzhVe2ziL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/SAPIENS-non-troppo-S%C3%ADntomas-explicaci%C3%B3n/dp/B08PJKJ8WC?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 8, 'name': 'KOKKOKU', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/91pqCzmXyML._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.a0b063d9-dbf2-cd26-0916-b9d3aba34169%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WDZ4TYH&ref=sr_1_7&keywords=None&sr=8-7', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 9, 'name': 'None Gorro de Matorral Quirúrgico Gorro de Médico Gorro de Enfermera Gorro de Enfermera Gorro de Cirujano Gorro con Banda de Sudor para Mujeres Hombres Hospital', 'price': '6,99', 'image': 'https://m.media-amazon.com/images/I/61BmrYUrtLL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/None-Matorral-Quir%C3%BArgico-Enfermera-Cirujano/dp/B0871WYHW5?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 10, 'name': 'No Country for Old Men', 'price': '3,99', 'image': 'https://m.media-amazon.com/images/I/71mhWb1W9QL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.8cabea64-344f-7e4e-c512-a51fcd4bb21f%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WH4FXXV&ref=sr_1_9&keywords=None&sr=8-9', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 11, 'name': "The Dead Don't Die", 'price': '7,99', 'image': 'https://m.media-amazon.com/images/I/91-xxRQwcdL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.d0b7d8b4-09ad-2e18-a835-7edae31f2c30%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B088NCSWX1&ref=sr_1_10&keywords=None&sr=8-10', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 12, 'name': 'Jack Reacher: Never Go Back', 'price': '2,99', 'image': 'https://m.media-amazon.com/images/I/91NlLNaNDoL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.d4b574b9-c701-e3a5-c792-f4b48dc2100e%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B0821RP2BV&ref=sr_1_11&keywords=None&sr=8-11', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 13, 'name': 'Meditations: A New Translation (English Edition)', 'price': '3,37', 'image': 'https://m.media-amazon.com/images/I/612jbkfHWBL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Meditations-Translation-English-Marcus-Aurelius-ebook/dp/B091298Y2K?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 14, 'name': "Non-Designer's Design Book, The", 'price': '30,22', 'image': 'https://m.media-amazon.com/images/I/41Jz3U6ldHL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Non-Designers-Design-Book-Robin-Williams/dp/0133966151?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 15, 'name': 'Brittany Runs A Marathon', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/91ZJYaYVv8L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.bab7145a-24fb-7b80-19ea-dc8e50e99138%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07ZZK7RGK&ref=sr_1_14&keywords=None&sr=8-14', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 16, 'name': 'Playing With Fire', 'price': '3,99', 'image': 'https://m.media-amazon.com/images/I/81RQrwo8l3L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.94b84ea6-fdc9-77f5-6fdc-b0d0be115351%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B0878WTJDN&ref=sr_1_15&keywords=None&sr=8-15', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 17, 'name': 'None\xa0Brand Baby Simple Dimple Sensory Toys, Silicone Flipping Board Mini Simple Anti-Stress Toys Suitable for Children and Adults (Random Color)', 'price': '6,21', 'image': 'https://m.media-amazon.com/images/I/31zAFqpXzAL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/None-Brand-Silicone-Flipping-Anti-Stress-Suitable/dp/B08XBH278Q?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 18, 'name': 'NONE Gorro Quirúrgico Ajustable Gorro de Cirugía Unisex Transpirable Médico Enfermera Enfermera Sombrero de Trabajo Gorro de Cirugía - Verde Negruzco', 'price': '4,86', 'image': 'https://m.media-amazon.com/images/I/61Z8pXwU8NL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/NONE-Quir%C3%BArgico-Ajustable-Transpirable-Enfermera/dp/B087232SFZ?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 19, 'name': 'Street Kings', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/91RzxqrqO0L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.9cafff70-6bc9-2bbb-881c-f117879aa533%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WK9B6TG&ref=sr_1_18&keywords=None&sr=8-18', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 20, 'name': 'Gel hidroalcoholico antiseptico para manos limpieza sin agua 500ml', 'price': '4,95', 'image': 'https://m.media-amazon.com/images/I/61D3pLTcrHL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/hidroalcoholico-antiseptico-manos-limpieza-500ml/dp/B085W4RY9P?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 21, 'name': 'The Holiday', 'price': '3,99', 'image': 'https://m.media-amazon.com/images/I/91QvNg0kaaL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.40b3cf57-61e7-f911-5df2-41471cd6fdac%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WH4H8D8&ref=sr_1_20&keywords=None&sr=8-20', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 22, 'name': 'Pares y Nones (Crossbooks)', 'price': '15,15', 'image': 'https://m.media-amazon.com/images/I/71WJRPHZ7cL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Pares-Nones-Crossbooks-Malorie-Blackman/dp/8408228269?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 23, 'name': 'Alegre ma non troppo', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/710lO6EOw+L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.38b96030-1112-74e3-e357-eaa9be9357f1%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B08BC1JGDS&ref=sr_1_22&keywords=None&sr=8-22', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 24, 'name': 'NAVITECH Laptop Bolsa violeta violeta Razer Blade Full HD Non-touch', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/71ivM0qYQHL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/NAVITECH-Laptop-Bolsa-violeta-Non-touch/dp/B01HEZA6RA?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 25, 'name': 'DotVol Mujer Sujetador Reductor Cobertura Completa Minimizador Cierre Adelante con Gancho y Agujero Encaje Wirefree Non Acolchado Talla Grande', 'price': '20,99', 'image': 'https://m.media-amazon.com/images/I/71YXqV9jaBL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/DotVol-Sujetador-Cobertura-Minimizador-Acolchado/dp/B08J6PLXHT?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 26, 'name': 'Allegro ma non troppo (Fuera de Colección)', 'price': '11,40', 'image': 'https://m.media-amazon.com/images/I/91WbEgKSr8L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Allegro-non-troppo-Fuera-Colecci%C3%B3n/dp/8484329070?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 27, 'name': 'Alegre ma non troppo', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/81BY9oeEmDL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.0eb2fea6-a17d-c5d5-6040-09ad3943bbf7%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WG4F7S6&ref=sr_1_26&keywords=None&sr=8-26', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 28, 'name': 'Mascarilla Higienica WottoCare, 50 uds/caja, 3 Capas/BFE ≥ 95% Mascarilla Facial de Filtración Material Filtro y non-woven, Mascara Certificada/Homologada', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/71qOVzu3ORL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Mascarilla-Higienica-Filtraci%C3%B3n-Certificada-Homologada/dp/B089QC7X1N?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 29, 'name': 'NIKE Med Band Bra Non Pad Sujetador de Deporte, Mujer', 'price': '21,44', 'image': 'https://m.media-amazon.com/images/I/51BpTN0x3zL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/NIKE-Sujetador-Deporte-Mujer-White/dp/B07RX2FBQ8?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 30, 'name': 'Vellos non deben namorarse, os (bc): 4 (Biblioteca Castelao)', 'price': '14,15', 'image': 'https://m.media-amazon.com/images/I/51xlL+NpuFL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/vellos-deben-namorarse-Biblioteca-Castelao/dp/8482887408?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 31, 'name': 'None\xa0Brand Retractable Gap Dust Cleaning Artifact Brush Long Handle Household Sweep Mop Free to Bend, Clean Dead Corners.', 'price': '11,05', 'image': 'https://m.media-amazon.com/images/I/61b0BoyczPL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/None-Brand-Retractable-Cleaning-Artifact-Household/dp/B08VRQX65M?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 32, 'name': 'Io non ho paura (Einaudi. Stile libero big)', 'price': '14,00', 'image': 'https://m.media-amazon.com/images/I/81b2zZjzeqL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/non-paura-Einaudi-Stile-libero/dp/8806207695?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 33, 'name': 'NAVITECH Laptop Bolsa violeta violeta Dell XPS 13 Non-Touch', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/71ivM0qYQHL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/NAVITECH-Laptop-Bolsa-violeta-Non-Touch/dp/B01HEZB2CI?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 34, 'name': 'Una cosa divertente che non farò mai più (Sotterranei)', 'price': '12,00', 'image': 'https://m.media-amazon.com/images/I/915dxazUPnL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Una-cosa-divertente-far%C3%B2-Sotterranei/dp/8875218374?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 35, 'name': 'DotVol Mujer Sujetador Reductor Cobertura Completa Minimizador Cómodo Encaje Wirefree Non Acolchado Plus Talla Bra', 'price': '20,99', 'image': 'https://m.media-amazon.com/images/I/715WkaiVBBL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/DotVol-Sujetador-Cobertura-Minimizador-Acolchado/dp/B08QZDK5WZ?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 36, 'name': "S'Nonas Crema Hidratante Manos y Pies - 150 ml", 'price': '4,30', 'image': 'https://m.media-amazon.com/images/I/51yjxM1oE-L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/SNonas-Crema-Hidratante-Manos-Pies/dp/B00CCJD2HA?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 37, 'name': 'The Polar Express', 'price': '3,99', 'image': 'https://m.media-amazon.com/images/I/81AQHquLG3L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.26b4baaf-3c88-3339-e75c-d17dd01b2283%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WSH5LVX&ref=sr_1_36&keywords=None&sr=8-36', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 38, 'name': 'Prohibido escuchar canciones ñoñas: La vida es mejor con buena música (Ilustración)', 'price': '15,99', 'image': 'https://m.media-amazon.com/images/I/81kVatieVjL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Prohibido-escuchar-canciones-%C3%B1o%C3%B1as-Ilustraci%C3%B3n/dp/8416890218?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 39, 'name': 'NIKE Med Non Pad Bra Sujetador de Deporte Mujer', 'price': '29,99', 'image': 'https://m.media-amazon.com/images/I/61-n6XU+eLL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Nike-Sports-Mujer-Black-White/dp/B07RZ2ZK45?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 40, 'name': 'Gel Hidroalcoholico Antiséptico para Piel Sana, Gel Desinfección Higienizante 500ml con Dosificador a 75º Alcohol/Ethanol Antibacterial Desinfectante (3 x 500ml)', 'price': '10,00', 'image': 'https://m.media-amazon.com/images/I/61O6Xc+xzzL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Hidroalcoholico-Desinfecci%C3%B3n-Higienizante-Antibacterial-Desinfectante/dp/B08H5KTWJW?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 41, 'name': 'Baño Limpieza del asiento del inodoro Mano de obra estándar Fácil de instalar Herramientas de limpieza de bidé para el hogar(EU non-American dental gauge)', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/41aZ4WijqDL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Limpieza-est%C3%A1ndar-instalar-Herramientas-non-American/dp/B08QHXV818?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 42, 'name': 'Non ho niente da mettermi (tranne il sorriso). Il manuale di stile per imparare ad amarsi e trovare la felicità in fondo al cassetto (Webstar)', 'price': '16,90', 'image': 'https://m.media-amazon.com/images/I/61rUTCQ2XmL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/mettermi-sorriso-imparare-felicit%C3%A0-cassetto/dp/8891830534?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 43, 'name': 'Non sei solo (Italian Edition)', 'price': '0,00', 'image': 'https://m.media-amazon.com/images/I/71Rz0U4rx+L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Non-sei-solo-Italian-Phoenix-ebook/dp/B08Z6KMS3Y?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 44, 'name': 'Allegro ma non troppo (Divulgación)', 'price': '8,50', 'image': 'https://m.media-amazon.com/images/I/71lTPuPamfL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Allegro-ma-non-troppo-Divulgaci%C3%B3n/dp/8408007068?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 45, 'name': "Aibrou Women's Non-Wire Daily Bra with Removable Pads Invisible Seamless Wirefree Yoga Bras Soft Comfy Sleep Leisure Bralette for Ladies", 'price': '15,99', 'image': 'https://m.media-amazon.com/images/I/71NPIb6D68L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Aibrou-Sujetador-Costuras-Inal%C3%A1mbrico-Ajustable/dp/B08P8PN2PV?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 46, 'name': 'Maxi Nona Corona para cumpleaños o Fiestas Infantiles con números del 1 al 9 (Círculo)', 'price': '16,95', 'image': 'https://m.media-amazon.com/images/I/81oZWdtRCaL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Maxi-Nona-cumplea%C3%B1os-Fiestas-Infantiles/dp/B07X8YFZMJ?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 47, 'name': 'The Matrix Revolutions', 'price': '3,99', 'image': 'https://m.media-amazon.com/images/I/91eHq3FaV0L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.22b2fcd6-b50c-ee65-0f0b-314b7ff80473%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B08DM83WG8&ref=sr_1_46&keywords=None&sr=8-46', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 48, 'name': 'How To Be Single', 'price': '3,99', 'image': 'https://m.media-amazon.com/images/I/91Epn7oYEQL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.acb90a93-5d2c-a251-46c5-ce05b1ba687b%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B08Z3H5V33&ref=sr_1_47&keywords=None&sr=8-47', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/None/s?k=None>
+{'id': 49, 'name': 'Event Horizon', 'price': '3,99', 'image': 'https://m.media-amazon.com/images/I/71SLOmUrSOL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.5eac4450-6b59-c544-1cea-1f68ca75468e%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WK99N6H&ref=sr_1_48&keywords=None&sr=8-48', 'store': 'Amazon ES'}
+2021-03-25 22:18:24 [scrapy] INFO: Closing spider (finished)
+2021-03-25 22:18:24 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 540,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 89190,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 1.147658,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 3, 25, 22, 18, 24, 411969),
+ 'item_scraped_count': 49,
+ 'log_count/DEBUG': 51,
+ 'log_count/INFO': 7,
+ 'memusage/max': 96145408,
+ 'memusage/startup': 96145408,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2021, 3, 25, 22, 18, 23, 264311)}
+2021-03-25 22:18:24 [scrapy] INFO: Spider closed (finished)

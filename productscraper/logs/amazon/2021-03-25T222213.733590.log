@@ -1,0 +1,134 @@
+2021-03-25 22:22:14 [scrapy] DEBUG: Redirecting (301) to <GET https://www.amazon.es/pen/s?k=pen> from <GET https://www.amazon.es/s?k=pen&ref=nb_sb_noss_2>
+2021-03-25 22:22:14 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.es/pen/s?k=pen> (referer: None)
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 1, 'name': 'SanDisk Ultra Flair Memoria flash USB 3.0 de 64 GB, con carcasa de metal duradera y elegante y hasta 150 MB/s de velocidad de lectura, Negro', 'price': '9,19', 'image': 'https://m.media-amazon.com/images/I/51sFovQ2j9L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Flash-SanDisk-Velocidad-Lectura/dp/B015CH1NAQ?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 2, 'name': 'SanDisk Ultra Flair Memoria flash USB 3.0 de 64 GB, con carcasa de metal duradera y elegante y hasta 150 MB/s de velocidad de lectura, Negro', 'price': '9,19', 'image': 'https://m.media-amazon.com/images/I/51sFovQ2j9L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Flash-SanDisk-Velocidad-Lectura/dp/B015CH1NAQ?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 3, 'name': '64GB Memorias USB 2.0 ENUODA Pendrive Giratoria Diseño Flash Drive Almacenamiento Externo Morado', 'price': '7,99', 'image': 'https://m.media-amazon.com/images/I/61k8YPRiAkL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memorias-ENUODA-Pendrive-Giratoria-Almacenamiento/dp/B08CGTDSW4?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 4, 'name': 'SanDisk Cruzer Blade - Memoria USB de 2.0 de 16 GB', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/61PVIzk6ALL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Sandisk-Cruzer-Blade-Memoria-negro/dp/B002U1ZBG0?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 5, 'name': 'Memoria Flash USB 3.0 SanDisk SDCZ93-128G-G46 Ultra Loop de 128\xa0GB, Gris', 'price': '24,99', 'image': 'https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/81e619df-7a87-4832-ab50-5d27b093580b._CR0,0,500,500_SX50_._TTW_.jpg', 'link': 'https://www.amazon.es/Memoria-Flash-SanDisk-Ultra-128-GB/dp/B07L9PWH9K?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 6, 'name': 'Memoria Flash USB 3.0 SanDisk SDCZ93-128G-G46 Ultra Loop de 128\xa0GB, Gris', 'price': '24,99', 'image': 'https://m.media-amazon.com/images/I/61bFPca5SyL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Flash-SanDisk-Ultra-128-GB/dp/B07L9PWH9K?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 7, 'name': 'Kingston DataTraveler G4 DTIG4/128 GB - Memoria USB, 128 GB, Verde/Blanco', 'price': '13,27', 'image': 'https://m.media-amazon.com/images/I/41P1ZH-zilL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Kingston-DataTraveler-Memoria-color-blanco/dp/B00G9WHMHM?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 8, 'name': 'SanDisk Ultra Flair Memoria flash USB 3.0 de 128 GB, con carcasa de metal duradera y elegante y hasta 150 MB/s de velocidad de lectura, Negro', 'price': '18,68', 'image': 'https://m.media-amazon.com/images/I/61tHnRQ+q1L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Flash-SanDisk-Velocidad-Lectura/dp/B015CH1PJU?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 9, 'name': 'Kingston DataTraveler SE9 -DTSE9H/16GB Memoria USB , 16 GB, Plata, 1 Pieza', 'price': '4,95', 'image': 'https://m.media-amazon.com/images/I/71Lt9qH8u3L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Kingston-DTSE9H-16GB-Memoria-color/dp/B006YBARCA?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 10, 'name': 'SanDisk Ultra Fit, Memoria flash USB 3.1 de 64 GB con hasta 130 MB/s de velocidad de lectura,Tradicional,Negro,64GB', 'price': '9,99', 'image': 'https://m.media-amazon.com/images/I/61+pA9gUKEL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Flash-SanDisk-Velocidad-Lectura/dp/B077VYCV37?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 11, 'name': '5 Piezas PenDrives 16GB DataOcean Memorias USB 2.0 Giratoria Pen Drive 16 GB Unidad Flash(5 Colores Mezclados: Negro Rosa Verde Amarillo Azul)', 'price': '16,99', 'image': 'https://m.media-amazon.com/images/I/81wd3uhU2FL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memory-Stick-DataOcean-USB2-0-Almacenamiento/dp/B07Q322NZB?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 12, 'name': 'Pen Drive 32 GB, Mini Memorias USB 32 GB USB Flash Drive Memoria Stick 32GB con Llavero Colgante para Computadoras, Tabletas y Otros Dispositivos (Oro)', 'price': '6,99', 'image': 'https://m.media-amazon.com/images/I/51-MAoazInL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memorias-Colgante-Computadoras-Tabletas-Dispositivos/dp/B07SNFXHV6?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 13, 'name': 'Memorias USB 5 Piezas 32GB USB 2.0 Stick Flash Drive Pendrives Almacenamiento Datos por SIMMAX (32GB Verde Púrpura Rojo Negro Azul)', 'price': '19,99', 'image': 'https://m.media-amazon.com/images/I/71wiz0J1VVL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memorias-Pendrives-Almacenamiento-SIMMAX-P%C3%BArpura/dp/B07F5VS6SN?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 14, 'name': 'SanDisk Memoria Flash Ultra USB 3.0 de 128 GB, hasta 130 MB/s velocidad de lectura', 'price': '17,56', 'image': 'https://m.media-amazon.com/images/I/61TuPtmTScL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-flash-SanDisk-velocidad-lectura/dp/B00P8XQPY4?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 15, 'name': 'USB Flash Drive 1 TB 2 TB USB Stick High Speed Memory Stick 2.0 USB Flash Drive Pen Data Storage(2TB-A, negro)', 'price': '19,99', 'image': 'https://m.media-amazon.com/images/I/21WKXqEo-FL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Flash-Drive-Stick-Memory-Storage/dp/B08VNWKKKN?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 16, 'name': 'maxineer Memoria USB 256GB Pendrive para Phone Android 3 en 1 Flash USB Pen Drive Memory Stick Expansión para Android Computadoras Laptops Smartphone', 'price': '29,99', 'image': 'https://m.media-amazon.com/images/I/61DXwRPKJNL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/maxineer-Pendrive-Expansi%C3%B3n-Computadoras-Smartphone/dp/B08SW8JQFQ?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 17, 'name': 'YOHU 256GB Pendrive para iPhone Photo Stick Memoria USB para iPhone y iPad Android Laptops Flash Drive Expansión (Plata)', 'price': '29,99', 'image': 'https://m.media-amazon.com/images/I/616U+jLCyRL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/YOHU-Pendrive-Memoria-Android-Expansi%C3%B3n/dp/B08K978F7T?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 18, 'name': 'Memoria Flash SanDisk Cruzer Spark USB 2.0 de 16 GB, Azul', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/81C67HqT4VL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Flash-SanDisk-Cruzer-Spark/dp/B0825D6LLT?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 19, 'name': 'Pen Drive 64GB, Mini Memorias USB 64GB USB Unidad Flash Memoria Stick 64 GB con Llavero Colgante para Computadoras, Tabletas y Otros Dispositivos', 'price': '9,99', 'image': 'https://m.media-amazon.com/images/I/41EK2BXLUxL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memorias-Colgante-Computadoras-Tabletas-Dispositivos/dp/B07SL6MQ1H?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 20, 'name': 'PNY FD16GATT4-EF - Memoria USB 2.0 de 16 GB (25 MB/s), color negro', 'price': '3,40', 'image': 'https://m.media-amazon.com/images/I/51C3SoQHqzL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/PNY-FD16GATT4-EF-Memoria-color-negro/dp/B00TPG6P22?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 21, 'name': 'Samsung MUF-128DB/APC Titan Gray 128 GB', 'price': '32,99', 'image': 'https://m.media-amazon.com/images/I/81b-Ss6A9DL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Samsung-Flash-Drive-Gray-128/dp/B07HPWV6HH?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 22, 'name': 'Verbatim 49071 - Memoria USB de 128 GB (10 MB/s), color negro', 'price': '9,99', 'image': 'https://m.media-amazon.com/images/I/41s6pETmj0L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Verbatim-49071-Memoria-color-negro/dp/B009GX7D0M?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 23, 'name': 'Memoria USB 32 GB, Mini Pendrive 32GB Memoria Flash Metal USB Pen Drive 32 GB con Llavero para Computadoras, Tabletas Almacenamiento de Datos Externo (Plata)', 'price': '6,99', 'image': 'https://m.media-amazon.com/images/I/51CF7MI-dVL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Pendrive-Computadoras-Tabletas-Almacenamiento/dp/B07XQGMNNH?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 24, 'name': 'Kingston DataTraveler 100 G3 -DT100G3/128GB, USB 3.0, Flash Drive, 128 GB, Negro', 'price': '17,95', 'image': 'https://m.media-amazon.com/images/I/71OC8kKBhXL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Kingston-DT100G3-128GB-DataTraveler-100/dp/B016BEPP9O?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 25, 'name': 'SIMMAX Memoria Flash USB 64GB Pen Drive USB 2.0 Flash Drive Almacenamiento Externo Thumb Drive (64GB Azul)', 'price': '9,99', 'image': 'https://m.media-amazon.com/images/I/61TZG00qRYL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/SIMMAX-Memoria-Flash-Almacenamiento-Externo/dp/B07S4F2NN8?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 26, 'name': 'Pen Drive 32 GB Mini Memoria USB 32GB Impermeable USB Flash Drive 32 GB para Computadoras, Tabletas Almacenamiento de Datos (Plata)', 'price': '6,99', 'image': 'https://m.media-amazon.com/images/I/41sjrL5ceOL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Impermeable-Computadoras-Tabletas-Almacenamiento/dp/B07ZFLSZP6?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 27, 'name': 'Samsung MUF-32BE4/EU 32GB 3.0 (3.1 Gen 1) Conector USB Tipo A Gris, Titanio Unidad Flash USB - Memoria USB (32 GB, 3.0 (3.1 Gen 1), Conector USB Tipo A, 200 MB/s, Sin Tapa, Gris, Titanio)', 'price': '9,90', 'image': 'https://m.media-amazon.com/images/I/61wdSDE3DaL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Samsung-MUF-32BE4-EU-Conector-Titanio/dp/B07CVVHCTG?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 28, 'name': 'maxineer 256GB Memoria USB para Phone Android Pendrive USB 3.0 4 en 1 Flash Drive para Phone Android Laptops Smartphone', 'price': '32,99', 'image': 'https://m.media-amazon.com/images/I/51ZGXt-z1kL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/maxineer-Memoria-Android-Pendrive-Smartphone/dp/B08R3MJ7TS?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 29, 'name': 'Pendrive 32GB 2.0 USB KOOTION Memoria USB 32Gigas Flash Drive USB Stick Pen Drive con Indicador LED Rojo', 'price': '5,94', 'image': 'https://m.media-amazon.com/images/I/619psxxKRfL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Kootion-Pendrive-Indicador-Ordenador-Computadora/dp/B07MQ4T5TS?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 30, 'name': 'PenDrives 32GB 5 Piezas Práctico Memorias USB - Giratoria Pen Drive 32 GB Kit 5 Unidades Portátil y Económico Unidad Flash USB 2.0 - Almacenamiento de Dato Multicolor Llave USB con Cuerda by FEBNISCTE', 'price': '24,66', 'image': 'https://m.media-amazon.com/images/I/61QRObbEWtL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/FEBNISCTE-32GB-Memorias-USB-Multicolor/dp/B013PH9NFM?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 31, 'name': 'Memoria USB, 5 x 32 GB Pen Thumb Unidades Flash Memoria Jump Drive Memoria Externa con diseño de Llavero (Negro)', 'price': '22,99', 'image': 'https://m.media-amazon.com/images/I/51C63xR6NLL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Unidades-Externa-dise%C3%B1o-Llavero/dp/B088CXVKKF?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 32, 'name': 'USB 3.1 Flash Drive - MAGIX Stealth - Super Speed Up to 100 MB/s (32GB)', 'price': '4,69', 'image': 'https://m.media-amazon.com/images/I/711ZDBmhFCL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/USB-3-1-Flash-Drive-Stealth/dp/B07V31NV45?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 33, 'name': 'Peppa Pig - Season 2', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/711QW6EC8YL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.b8b99c83-5ddc-1521-bad1-00ada1a19698%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B08GFZFL5X&ref=sr_1_27&keywords=pen&sr=8-27', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 34, 'name': 'SunData Memorias USB 64GB Pen Drive USB 3.0 Flash Drive Diseño Giratorio Almacenamiento de Datos hasta 90MB/s, (Paquete Individual: Azul)', 'price': '10,99', 'image': 'https://m.media-amazon.com/images/I/517m9mFzR5L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/SunData-Memorias-Giratorio-Almacenamiento-Individual/dp/B0834PDHL8?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 35, 'name': 'Pendrive 8GB 2.0 10 Piezas, KOOTION Memoria USB Flash Drive Set 10 Unidades Pen Drives, Pack de 10 Pen USB Stick, Multi-Colores', 'price': '34,99', 'image': 'https://m.media-amazon.com/images/I/61a7BnJzYpL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-KOOTION-Pendrive-Drives-Multi-Colores/dp/B07RMDPB5Z?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 36, 'name': 'Pendrive USB C 32GB KOOTION Tipo C Memoria USB 3.0 32 Giga OTG Flash Drive Type C Pen USB Dual Pen Drive Doble Entrada, Azul', 'price': '11,98', 'image': 'https://m.media-amazon.com/images/I/61B8olUjmjL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/KOOTION-Pendrive-Memoria-Entrada-Dispositivos/dp/B07PCJ7HPN?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 37, 'name': 'iweed Pendrive 256GB para iPhone Memoria USB 256GB USB 3.0 Photo Stick 3 en 1 Flash Drive Expansión de Memoria para iPhone iOS OTG Android Computadora Laptops', 'price': '29,98', 'image': 'https://m.media-amazon.com/images/I/412V3Z9qqWL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/iweed-Pendrive-Memoria-Expansi%C3%B3n-Computadora/dp/B08SQ6Q8C8?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 38, 'name': 'SunData 32GB Memorias USB 5 Piezas PenDrives 32GB Unidad Flash USB2.0 Giratoria Pen Drive con Luz LED (5 Colores: Negro Azul Verde Rojo Oro)', 'price': '20,99', 'image': 'https://m.media-amazon.com/images/I/71IjO6TenIL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/SunData-Memoria-Unidades-Color-Schwarz/dp/B07MYGJWJC?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 39, 'name': 'iDiskk [Certificado MFi] Lápiz Foto Stick 64GB para iPhone Unidad Flash USB para iPad Pendrive Memory Stick para iPhone Compatible con iPad iOS14 Almacenamiento en Mac y PC en iPhone', 'price': '32,99', 'image': 'https://m.media-amazon.com/images/I/61PFuyLWoYL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Certificado-iDiskk-Pendrive-Lightning-Conector/dp/B07449V16V?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 40, 'name': 'OTGMemoria USB 2.0, Colourstone 32GB Pendrive del Puerto Dual Compatible con Samsung Huawei Smartphones y Tablets Memoria Externa, Morado', 'price': '8,99', 'image': 'https://m.media-amazon.com/images/I/51oSiVKAU8L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Generic-2-0-OTG-unidad-flash-morado/dp/B013W2X2DO?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 41, 'name': 'Memoria USB 2.0 de 1 TB 2 TB de alta velocidad USB Flash Drive Pen Data Storage (1TB-A Silver)', 'price': '29,89', 'image': 'https://m.media-amazon.com/images/I/21p3O8b+BzL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-velocidad-Flash-Storage-Silver/dp/B08T3MJ1L2?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 42, 'name': 'SanDisk Ultra Dual Drive Go para Dispositivos con USB Type-C, 64 GB, Negro', 'price': '18,99', 'image': 'https://m.media-amazon.com/images/I/715A+TYJFSL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/SanDisk-Ultra-Drive-Dispositivos-Type-C/dp/B07YYK13LF?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 43, 'name': 'Netac Memorias USB 3.0 64GB, Diseño Giratorio Mini Pen Drive velocidades de Lectura de hasta 80MB/s, Flash Drive para Computadoras, Tabletas Almacenamiento de Datos', 'price': '9,34', 'image': 'https://m.media-amazon.com/images/I/51NX4lzAPcL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memorias-Giratorio-velocidades-Computadoras-Almacenamiento/dp/B0834YVH1W?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 44, 'name': 'Beenjoy Memoria USB 64GB Mini Pendrive Metal Memory Stick Impermeable USB Stick Flash USB 64GB con Llavero para Computadoras, Tabletas y Otras Dispositivos', 'price': '10,99', 'image': 'https://m.media-amazon.com/images/I/51V27MIpgpL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Beenjoy-Pendrive-Impermeable-Computadoras-Dispositivos/dp/B08VRVCWN6?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 45, 'name': 'Memoria USB 20 Piezas 512MB Pendrives, Kepmem Memorias Stick Pequeña Capacidad Unidad Flash Drive Multicolors Memorias Stick 2.0 Económico 512 MB Pen Drives Regalo para Repartir Pequeños Archivos', 'price': '39,99', 'image': 'https://m.media-amazon.com/images/I/71FX9tANlIL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Piezas-Pen-Drives-512MB-Multicolors/dp/B075KH9MWT?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 46, 'name': 'LEELNG Pendrive para iPhone Memoria USB 32GB Android Computadoras Laptops Flash Drive Expansión (Rosa)', 'price': '18,99', 'image': 'https://m.media-amazon.com/images/I/71lKMn3uoxL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Conector-Expansi%C3%B3n-Android-LEELNG/dp/B07VCYDVJC?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 47, 'name': 'Toshiba Hayabusa - Memoria USB 2.0 de 32 GB, color blanco', 'price': '8,20', 'image': 'https://m.media-amazon.com/images/I/51PKFnn-ftL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Toshiba-Hayabusa-Memoria-Color-Blanco/dp/B014VM3G3U?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 48, 'name': 'SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB en un extremo y un conector USB 3.0, 64 GB', 'price': '9,99', 'image': 'https://m.media-amazon.com/images/I/61lHgH1U7bL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memoria-Flash-SanDisk-Ultra-hasta/dp/B01M127X8F?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 49, 'name': 'PNY Attaché USB 3.0, 32 GB Memoria USB, Verde', 'price': '5,90', 'image': 'https://m.media-amazon.com/images/I/61zHJVKPxXL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/PNY-Attach%C3%A9-Velocidad-Escritura-Lectura/dp/B00VBIB2WA?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 50, 'name': 'BANANA FISH', 'price': 'Not specified', 'image': 'https://m.media-amazon.com/images/I/A1N4QM1C2XL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/gp/video/ssoredirect/?ru=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.0eb23491-fc94-a81f-e661-ef8036e4efd6%26ref_%3Ddvm_src_ret_es_xx_s&page-type-id=B07WH4FDX2&ref=sr_1_44&keywords=pen&sr=8-44', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 51, 'name': 'USB Flash Drive USB Stick 1TB 2TB High Speed Memory Stick 2.0 USB Flash Drive Pen (2TB-A, Negro)', 'price': '25,91', 'image': 'https://m.media-amazon.com/images/I/41TcDOes4UL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Flash-Drive-Stick-Speed-Memory/dp/B08VNJGBBY?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 52, 'name': 'Toshiba TransMemory U301 - Memoria USB de 32 GB, Color Blanco', 'price': '10,30', 'image': 'https://m.media-amazon.com/images/I/61gLzrbkbcL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Toshiba-TransMemory-U301-Memoria-Blanco/dp/B00X9GK5PW?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 53, 'name': '2 Piezas 64GB USB 3.0 ENUODA Pendrive Pivote Memorias Giratoria Plegable Diseño de Cierre (Negro Rojo)', 'price': '13,99', 'image': 'https://m.media-amazon.com/images/I/61qt4tDx9EL._AC_UL320_.jpg', 'link': 'https://www.amazon.es/ENUODA-Pendrive-Memorias-Giratoria-Plegable/dp/B07R5HG18Z?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pen/s?k=pen>
+{'id': 54, 'name': 'Memorias USB 32GB 3.0 USB Flash Drive Pen Drives USB Stick Memoria USB 32GB Pendrive (Piezas Rosa)', 'price': '15,20', 'image': 'https://m.media-amazon.com/images/I/51gaaVFxK7L._AC_UL320_.jpg', 'link': 'https://www.amazon.es/Memorias-Drives-Memoria-Pendrive-Piezas/dp/B08K4SMQ1M?dchild=1', 'store': 'Amazon ES'}
+2021-03-25 22:22:14 [scrapy] INFO: Closing spider (finished)
+2021-03-25 22:22:14 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 537,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 88633,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 1.214944,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 3, 25, 22, 22, 14, 957222),
+ 'item_scraped_count': 54,
+ 'log_count/DEBUG': 56,
+ 'log_count/INFO': 7,
+ 'memusage/max': 96145408,
+ 'memusage/startup': 96145408,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2021, 3, 25, 22, 22, 13, 742278)}
+2021-03-25 22:22:14 [scrapy] INFO: Spider closed (finished)

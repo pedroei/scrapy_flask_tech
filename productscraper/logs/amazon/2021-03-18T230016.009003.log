@@ -1,0 +1,263 @@
+2021-03-18 23:00:16 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.es/robots.txt> (referer: None)
+2021-03-18 23:00:16 [scrapy] DEBUG: Redirecting (301) to <GET https://www.amazon.es/pc/s?k=pc> from <GET https://www.amazon.es/s?k=pc&ref=nb_sb_noss_2>
+2021-03-18 23:00:17 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.es/pc/s?k=pc> (referer: None)
+2021-03-18 23:00:17 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/pc/s?k=pc>
+{'product_name': ['Hp Elite 8300 - Ordenador de sobremesa (Intel Core i5-3470, '
+                  '8GB de RAM, Disco HDD de 500GB, Lector DVD, Windows 10 PRO '
+                  'ES 64) - Negro (Reacondicionado)',
+                  'ACEPC Mini PC, Windows 10 Pro 8GB DDR3 / 128GB eMMC Intel '
+                  'Atom Z8350 Mini computadora de Escritorio sin Ventilador '
+                  'con 4K HD, Salida HDMI + VGA, WiFi 2.4G / 5G, Gigabit '
+                  'Ethernet, BT 4.2',
+                  'PC Megaport Ordenador AMD Athlon 3000G 2X 3.50GHz • AMD '
+                  'Radeon Vega 3 • 8GB DDR4 • 1TB • USB3.0 Desktop pc • 1TB '
+                  'Disco Duro • Windows 10',
+                  'ACEPC AK1 Mini PC,6GB RAM + 128GB SSD,Intel Celeron '
+                  "J3455,Windows 10 (64 bits) Ordenador, Soporte mSATA/2.5 '' "
+                  'SSD/HDD/4K/2.4G+5G Band WiFi/Gigabit Ethernet/Bluetooth 4.2',
+                  'Beelink BT3 Pro II Mini PC Ordenador de sobremesa Soporte '
+                  'Windows 10 Home Sistema, 4GB RAM, 64GB eMMC ROM, Intel Atom '
+                  'x5-Z8350 Procesador, Dual-Band WiFi, Gigabit Ethernet, '
+                  'Salida HDMI/USB/SD/VGA',
+                  'CHUWI Herobox Mini pc Intel Gemini-Lake N4100 Windows10 OS, '
+                  'Quad Core 64 bit 1.1GHz a 2.4GHz, 8GB RAM 180GB ROM, '
+                  'expandible a 1T HDD, HDPC 2.2, BT 4.0 y Dual WiFi '
+                  'computadora de escritorior',
+                  'Mini PC Stick,T6 Fanless Intel Atom Z8350 Computer con '
+                  'Windows 10 Pro 64 bits/4 GB DDR + 64 GB eMMC/4K '
+                  'HD/Bluetooth 4.2/Dual WiFi/USB 3.0',
+                  'NITROPC - PC Gaming Pack Bronze Rebajas | PC Gamer (CPU '
+                  'Intel G6400 2/4 x 4,00Ghz (Turbo) | Gráfica GT 1030 2GB) + '
+                  'Monitor 21,5" + Teclado + ratón + Cascos | RAM 16GB | M.2 '
+                  '256GB | HDD 1TB',
+                  'CHUWI CoreBox Mini pc, Intel Core i5 Windows10 OS, Doble '
+                  'Core 64 bit 2.7GHz hasta 3.3GHz, 8GB RAM 256GB ROM, HDPC '
+                  '2.2, BT 4.0 y Dual WiFi',
+                  'Hp Elite 8300 SFF - Ordenador de sobremesa (Intel Core '
+                  'i5-3470, 3.2 GHz, 8GB de RAM, Disco SSD de 240GB + 500GB '
+                  'HDD, Lector, Windows 10 Pro ES 64) (Reacondicionado)',
+                  'Hp Elite 8300 - Ordenador de sobremesa (Intel Core i5-3470, '
+                  '8GB de RAM, Disco SSD de 240GB, Lector DVD, Windows 10 PRO '
+                  'ES 64) - Negro (Reacondicionado)',
+                  'PC Gaming - Megaport Ordenador Gaming PC AMD Ryzen 5 3500X '
+                  '6x4.10GHz Turbo • GeForce GTX1660 6GB • 1000GB HDD • 240GB '
+                  'SSD • 16GB RAM • WLAN • Windows 10 • PC Gamer • Ordenador '
+                  'de sobremesa',
+                  'HP Elite 8300 - Ordenador de sobremesa (Intel Core i7-3770, '
+                  '16GB de RAM, Disco SSD 240GB + 500GB HDD, Lector DVD, '
+                  'Windows 10 Pro ES 64) - Negro (Reacondicionado)',
+                  'BMAX Micro Mini PC 6GB DDR4 64GB ROM Intel Celeron N3350 '
+                  '(Fino a 2,4GHz) Windows 10 (64 bit) Desktop Computer '
+                  'Ordenador de sobremesa Soporte Windows 10 Dual-Band WiFi, '
+                  'con Puertos HDMI/USB 3.0/VGA',
+                  'PC Gaming - Megaport Ordenador Gaming PC AMD Ryzen 7 3700X '
+                  '• GeForce RTX3060 12GB • 1TB M.2 High Performance SSD • '
+                  '16GB DDR4 3000 • WLAN • Windows 10 • PC Gamer',
+                  'HP Pavilion Desktop TP01-1018ns PC - Ordenador de sobremesa '
+                  '(Intel Core i5-10400, 16 GB RAM, 512 GB SSD, Windows 10), '
+                  'Plateado',
+                  'ACEPC Mini PC, 8 GB DDR4 / 128 GB ROM, Intel Celeron J4125 '
+                  'Windows 10 Pro Mini computadora, WiFi de Banda Dual 2.4 G / '
+                  '5 G, Conexiones 4K HD, HDMI/VGA …',
+                  'Mini PC AMD Ryzen 5 PRO 2500U | 16 GB RAM 512 GB M.2 SSD | '
+                  'Radeon Vega 8 Graphics | Windows 10 Pro | Intel WIFI6 AX200 '
+                  'BT 5.1 | 4K HDMI 2.0 Display USB-C | 2X RJ45 | 4X USB 3.1| '
+                  'Pequeño Formato',
+                  'Mini PC Windows 10 Pro,ACEPC Prozessor Inter Celeron '
+                  'J3455,6GB RAM/128 ROM, Mini Computadora con 2.5 Pulgadas '
+                  'HDD/SSD Bay/4K HD/WLAN de Doble Banda/Gigabit '
+                  'Ethernet/Bluetooth 4.2 /LAN de 1000 Mbps',
+                  'ACEPC AK1 Mini PC,6GB RAM + 128GB SSD,Intel Celeron '
+                  "J3455,Windows 10 (64 bits) Ordenador, Soporte mSATA/2.5 '' "
+                  'SSD/HDD/4K/2.4G+5G Band WiFi/Gigabit Ethernet/Bluetooth 4.2',
+                  'Mini PC 8GB de RAM Actualizable SSD de 256 GB Procesador '
+                  'Intel Core i5-5257U (hasta 3.1Ghz),Ordenadores de Sobremesa '
+                  'Windows 10 Pro 4K HD con Puerto USB-C/HDMI/Mini DP,2X '
+                  'Ethernet Wi-Fi Dual',
+                  'BMAX B3 Mini PC Intel Core i3 Processor DDR3L 8GB/128GB SSD '
+                  'Windows 10 Desktop PC Support Expandable with Intel HD '
+                  'Graphics 5500 Dual HDMI Dual Display',
+                  'ACEPC Mini PC,Intel Celeron J4125 Procesador,8GB RAM+128GB '
+                  'ROM,Windows 10 Pro(64-bit),Dual WiFi 2.4/5G, Bluetooth '
+                  '4.2,4K HD,GK3V Mini Ordenador de sobremesa',
+                  'CHUWI Herobox Mini pc Intel Gemini-Lake N4100 Windows10 OS, '
+                  'Quad Core 64 bit 1.1GHz a 2.4GHz, 8GB RAM 180GB ROM, '
+                  'expandible a 1T HDD, HDPC 2.2, BT 4.0 y Dual WiFi '
+                  'computadora de escritorior',
+                  'ACEPC Mini PC, Intel Core i5-5257U, Windows 10 Pro, 8 GB de '
+                  'RAM, 128 GB de Disco Duro mSATA, Soporte Triple Pantalla 6 '
+                  'Puertos USB, RS232 COM, 2.4G, 5G Dual WiFi, 2 LAN/BT 4.2.…',
+                  'MINIS FORUM Mini PC 8GB LPDDR4 SSD 256GB Procesador Intel '
+                  'Celeron J4125 Quad Core (hasta 2.7GHz) Mini computadora con '
+                  '4X Puertos USB 3.0 2X Gigabit Ethernet 4K HDMI/DP Port '
+                  'Wi-Fi de Doble Banda BT 5.0',
+                  'PC Gaming - Megaport Ordenador Gaming Intel Core i7-10700K '
+                  '• nvidia GeForce RTX 3060 12GB • 16GB 3000 DDR4 • 1TB M.2 '
+                  'SSD • Windows 10 • WiFi • PC Gamer • Ordenador de sobremesa',
+                  'Mini PC, procesador AMD Ryzen 5 3400GE 16 GB DDR4 / 256GB '
+                  'SSD Mini computadora de Escritorio con Windows 10 Pro, '
+                  'conexión HDMI y DP, BT 5.1, USB 3.0 * 4',
+                  'Mini PC, procesador AMD Ryzen 7 3750H de Cuatro núcleos, '
+                  'Mini computadora de Escritorio DDR4 / 512GB SSD de 16 GB '
+                  'actualizable con Windows 10 Pro, conexión HDMI, DP y USB C, '
+                  'BT 5.1',
+                  'HP Elite 8300 SFF Ordenador de Sobremesa (i5-3470 3.20GHz '
+                  '8GB de RAM, 500GB de HDD,Lector DVD, WiFi Windows 10 '
+                  'Professional) (Reacondicionado)',
+                  'ACEPC Mini PC Stick Intel Atom Z8350 Windows 10 Pro 64bit '
+                  '8GB DDR3 / 128GB eMMC,Soporte 4K HD, 2.4G / 5G WiFi de '
+                  'Doble Banda AC, BT 4.2',
+                  'Beelink SEi10 Mini PC con Procesador Intel 10th Gen '
+                  'i3-10110U (Turbo 4.1Ghz), 8G DDR4 + 256GB NVMe PCIe M.2 '
+                  '2280 SSD, WiFi 6 (802.11ax), 1000Mbps, Dual HDMI, BT 5.0, '
+                  'Type-C, 4 * USB 3.0, Windows 10',
+                  'Mini PC AMD Ryzen 5 3400GE | 16 GB RAM 512 GB M.2 PCIe SSD '
+                  '| Radeon Vega 11 Graphics | Windows 10 Pro | Intel WIFI6 '
+                  'AX200 BT 5.1 | 4K HDMI 2.0 / DisplayPort | 2 x RJ45 | 4 x '
+                  'USB 3.0',
+                  'MINIS FORUM Mini PC Procesador Intel Celeron J3455 (hasta '
+                  '2.3GHz), Escritorio 8G LPDDR4 / 64GB eMMC Windows 10 Pro '
+                  'HDMI y VGA Pantalla 2.4G + 5G Dual WiFi USB 3.0 / BT 4.2 '
+                  'Compatible con Linux, WOL',
+                  'Mini PC, AMD Ryzen 5 Pro 2500U Quad Core actualizable 16 GB '
+                  'DDR4 / 256GB SSD Mini computadora de Escritorio con Windows '
+                  '10 Pro, conexión HDMI-DP y USB C, WiFi de Doble Banda, BT '
+                  '5.1, Wake on LAN',
+                  'Mini PC, Aerofara Aero 2 Windows 10 Mini computadora de '
+                  'Escritorio 8GB LPDDR4 / 256GB SSD, CPU Intel Celeron J4125, '
+                  'HDMI + VGA Dual Display, Dual WiFi, 3 * USB 3,0',
+                  'NITROPC - PC Gamer VX *REBAJAS* (CPU Intel 10100, 4/8N x '
+                  '4,30Ghz (turbo), T. Gráfica Nvidia GTX 1050Ti 4GB, SSD '
+                  '480GB, Ram 8GB, Windows 10 preliminar) + WIFI de regalo. pc '
+                  'gamer, pc gaming, pc para juegos, ordenador juegos',
+                  'Mini PC con Windows 10 Pro, procesador Intel Celeron N3350, '
+                  '8 GB de RAM y 128 GB de ROM, computadora de Escritorio, '
+                  'WiFi de Doble Banda 2.4G / 5.0G, Salida HDMI 4K, Soporte 2X '
+                  'USB 3.0,1 * USB2.0',
+                  'PC Hp Elite 8300 - Ordenador de sobremesa SFF (Intel Core '
+                  'i7-3770, 8GB de RAM, Disco HDD 500GB, Lector DVD, Win 10 '
+                  'Pro Upgrade) (Reacondicionado)',
+                  'HP EliteDesk 800 G1 - Ordenador de sobremesa (Intel Core '
+                  'i5-4570, 16GB de RAM, Disco SSD 240GB, Lector DVD, Windows '
+                  '10 Pro ES 64) - Negro (Reacondicionado)',
+                  'HP Elite 8300 - Ordenador de sobremesa Completo + TFT 22" '
+                  '(Intel Core I5-3470, 8GB RAM,Disco HDD 500GB, WiFi, Windows '
+                  '10 Profesional 64 bits) (Reacondicionado)',
+                  'BEASTCOM Q3 | Essential Gaming PC | Ordenador Gaming | AMD '
+                  'Quadcore 4x 3.70Ghz | 16GB RAM | 512GB SSD | 4K Gráficos '
+                  'Radeon R7 | DVD | HDMI | USB 3.2 | WiFi | Windows 10 Pro | '
+                  'Office 2019',
+                  'Sedatech Pack PC Pro Gaming Watercooling Intel i9-9900KF 8X '
+                  '3.6Ghz, Geforce RTX 3060 12Gb, 16 GB RAM DDR4, 480Gb SSD, '
+                  '2Tb HDD, USB 3.1, WiFi. Ordenador de sobremesa, Monitor, '
+                  'Teclado/ratón, Win 10',
+                  'Beelink U57 Mini PC Windows 10, Intel Core i5-5257U '
+                  'Procesador (hasta 3.10GHz), Mini Computadora de Escritorio '
+                  'con 8G RAM+ 256G SSD/Dual HDMI/Dual WiFi/Tipo C/Gigabit '
+                  'Ethernet/BT 4.0',
+                  'Intel NUC8 i5-8259U + 8GB RAM DDR4 + 240GB SSD M.2 + '
+                  'Windows 10 Pro ESPAÑOL (Instalado y Configurado, Sin '
+                  'Licencia) | Mini PC - NUC8I5BEH',
+                  "Hp Elite 8300 - Ordenador de sobremesa + Monitor 24'' "
+                  '(Intel Core i5-3470, 8GB de RAM, Disco de 240 SSD+ 500GB '
+                  'HDD, Lector DVD, WiFi,Windows 10 Pro 64) (Reacondicionado)',
+                  'Sedatech PC Pro Gaming Watercooling AMD Ryzen 9 3900X 12x '
+                  '3.8Ghz, Geforce RTX 3060 12Gb, 32 GB RAM DDR4, 500Gb SSD '
+                  'NVMe M.2 PCIe, 3Tb HDD, WiFi, Bluetooth. Ordenador de '
+                  'sobremesa, sin OS',
+                  'ACEPC Mini PC Stick,8 GB RAM + 120 GB ROM,Intel Atom '
+                  'Z8350,T6 Mini Computer con Windows 10 Pro 64 bits/4K '
+                  'HD/Bluetooth 4.2/Dual WiFi/USB 3.0',
+                  'BMAX Mini Pc B2Plus 8 GB + 128 GB + SSD Intel Celeron J4115 '
+                  '(Fino a 2,5 GHz) Windows 10 (64 bit) Processore CPU '
+                  'Quad-Core Desktop/HDMI/Mini DP Dual Band WiFi Gigabit '
+                  'Ethernet BT5.0',
+                  'HP EliteDesk 800 G1 SFF Black Desktop PC, Intel Quad Core '
+                  'i5-4570 3.20GHz, 8GB RAM, 256GB SDD with Windows 10 Pro '
+                  '(Reacondicionado)',
+                  'Mini PC 8GB RAM 64GB ROM 128GB SSD 4K Windows 10, Intel '
+                  'Celeron N4100 Mini computadora de Escritorio con HDMI '
+                  'Dual,VGA,Tipo-C,USB * 4,WiFi de Banda Dual '
+                  '2.4G/5.8G,Gigabit Ethernet,Graphics 600,BT 4.2',
+                  'Mini PC, Beelink T34-M Windows 10 Desktop PC, Intel Celeron '
+                  'N3450 6GB/128GB, Mini PC Windows 10 System, Support Auto '
+                  'Power on,PXE Boot, WOL,RTC Wake/Dual Display/USB3.0/BT4.0'],
+ 'product_price': ['164,00',
+                   '179,90',
+                   '439,00',
+                   '199,90',
+                   '130,99',
+                   '219,00',
+                   '141,90',
+                   '719,21',
+                   '299,00',
+                   '204,00',
+                   '184,00',
+                   '909,00',
+                   '299,00',
+                   '139,99',
+                   '1.419,00',
+                   '669,01',
+                   '239,99',
+                   '509,99',
+                   '189,90',
+                   '199,90',
+                   '349,99',
+                   '249,99',
+                   '242,90',
+                   '219,00',
+                   '339,00',
+                   '212,49',
+                   '1.559,00',
+                   '559,99',
+                   '699,99',
+                   '174,00',
+                   '169,90',
+                   '429,00',
+                   '599,99',
+                   '189,99',
+                   '459,99',
+                   '249,00',
+                   '599,22',
+                   '214,82',
+                   '263,00',
+                   '235,00',
+                   '274,00',
+                   '429,99',
+                   '2.154,90',
+                   '349,00',
+                   '399,00',
+                   '364,00',
+                   '2.259,90',
+                   '179,90',
+                   '209,99',
+                   '198,00',
+                   '189,99',
+                   '169,00']}
+2021-03-18 23:00:17 [scrapy] INFO: Closing spider (finished)
+2021-03-18 23:00:17 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 795,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 94865,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 2,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 1.308317,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 3, 18, 23, 0, 17, 328580),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 4,
+ 'log_count/INFO': 7,
+ 'memusage/max': 56979456,
+ 'memusage/startup': 56979456,
+ 'response_received_count': 2,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2021, 3, 18, 23, 0, 16, 20263)}
+2021-03-18 23:00:17 [scrapy] INFO: Spider closed (finished)

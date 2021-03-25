@@ -1,0 +1,92 @@
+2021-03-25 22:23:04 [scrapy] DEBUG: Crawled (200) <GET https://www.kuantokusta.pt/search?q=laptop> (referer: None)
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 1, 'name': 'Asus E410MA-N4DHDAO1 14" Celeron N4020 4GB 64GB eMMC W10 S', 'price': '297,49', 'image': 'https://s1.kuantokusta.pt/img_upload/produtos_informatica/655848_2_asus-e410ma-n4dhdao1-14-celeron-n4020-4gb-64gb-emmc-w10-s.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/Asus-E410MA-N4DHDAO1-14-Celeron-N4020-4GB-64GB-eMMC-W10-S-p-1-655848', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 2, 'name': 'HP 15s-fq2000np 15.6" i3-1115G4 8GB 256GB SSD W10H - 2P7R8EA', 'price': '549,00', 'image': 'https://s1.kuantokusta.pt/img_upload/produtos_informatica/695278_2_hp-15s-fq2000np-15-6-i3-1115g4-8gb-256gb-ssd-w10h-2p7r8ea.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/HP-15s-fq2000np-15-6-i3-1115G4-8GB-256GB-SSD-W10H-2P7R8EA-p-1-695278', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 3, 'name': "HP 15S-EQ1018NP 15.6'' Ryzen 5 4500U 16GB 512GB SSD W10", 'price': '599,00', 'image': 'https://s1.kuantokusta.pt/img_upload/produtos_informatica/660486_2_hp-15s-eq1018np-15-6-ryzen-5-4500u-16gb-512gb-ssd-w10.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/HP-15S-EQ1018NP-15-6-Ryzen-5-4500U-16GB-512GB-SSD-W10-p-1-660486', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 4, 'name': 'HP 15s-fq2006np 15.6" i7-1165G7 12GB 512GB SSD W10H', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/produtos_informatica/753518_2_hp-15s-fq2006np-15-6-i7-1165g7-12gb-512gb-ssd-w10h.jpg', 'link': 'https://www.kuantokusta.pt#', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 5, 'name': 'HP Pavilion 15.6" 15s-eq1026np R3 4300U 12GB 256GB S/SO - 2Q5P1EA#AB9', 'price': '418,99', 'image': 'https://s1.kuantokusta.pt/img_upload/produtos_informatica/714563_2_hp-pavilion-15-6-15s-eq1026np-r3-4300u-12gb-256gb-s-so-2q5p1ea-ab9.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/HP-Pavilion-15-6-15s-eq1026np-R3-4300U-12GB-256GB-S-SO-2Q5P1EA-AB9-p-1-714563', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 6, 'name': 'HP Pavilion 15.6" 15s-eq1022np R5 4500 12GB 256GB SSD S/SO', 'price': '598,99', 'image': 'https://s1.kuantokusta.pt/img_upload/produtos_informatica/681095_2_hp-pavilion-15-6-15s-eq1022np-r5-4500-12gb-256gb-ssd-s-so.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/HP-Pavilion-15-6-15s-eq1022np-R5-4500-12GB-256GB-SSD-S-SO-p-1-681095', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 7, 'name': "HP 15s-eq1006np 15.6'' Athlon 3050U 4GB 256GB SSD Sem Sistema Operativo", 'price': '399,00', 'image': 'https://s1.kuantokusta.pt/img_upload/produtos_informatica/689139_2_hp-15s-eq1006np-15-6-athlon-3050u-4gb-256gb-ssd-sem-sistema-operativo.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/HP-15s-eq1006np-15-6-Athlon-3050U-4GB-256GB-SSD-Sem-Sistema-Operativo-p-1-689139', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 8, 'name': 'Microsoft Surface Laptop GO 12,45" i5-1035G1 8GB 128GB', 'price': '739,99', 'image': 'https://s1.kuantokusta.pt/img_upload/produtos_informatica/680102_2_microsoft-surface-laptop-go-12-45-i5-1035g1-8gb-128gb.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/Microsoft-Surface-Laptop-GO-12-45-i5-1035G1-8GB-128GB-p-1-680102', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 9, 'name': "Equip Suporte Secretária Duplo Articulado 13''-32'' - 650119", 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Imagem/Acessorios-e-Suportes-de-Monitor/Equip-Suporte-Secretaria-Duplo-Articulado-13-32-650119-p-1-528858', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 10, 'name': 'Xiaomi Impressora Portable Photo Printer White', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Impressao/Impressoras-e-Multifuncoes/Xiaomi-Impressora-Portable-Photo-Printer-White-p-1-657480', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 11, 'name': 'HP 15-dw3002np 15.6" i5-1135G7 12GB 512GB SSD W10', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt#', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 12, 'name': 'Microsoft Surface Laptop GO 12,45" i5-1035G1 4GB 64GB eMMC', 'price': '599,00', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/Microsoft-Surface-Laptop-GO-12-45-i5-1035G1-4GB-64GB-eMMC-p-1-680103', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 13, 'name': "Microsoft Surface Laptop 3 13.5'' Core i5 8GB 128GB - VGY-00010", 'price': '999,00', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/Microsoft-Surface-Laptop-3-13-5-Core-i5-8GB-128GB-VGY-00010-p-1-624853', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 14, 'name': 'Apple MacBook Air 13.3" Apple M1 8GB 512GB SSD Space Grey', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/Apple-MacBook-Air-13-3-Apple-M1-8GB-512GB-SSD-Space-Grey-p-1-691590', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 15, 'name': 'Innjoo Voom 4 14.1" N3350 4GB 64GB W10 Cinza', 'price': '269,99', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/Innjoo-Voom-4-14-1-N3350-4GB-64GB-W10-Cinza-p-1-695999', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 16, 'name': 'HP Gaming Laptop 17-cd1006np i7-10750H 16GB 512GB Wi10 H', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/HP-Gaming-Laptop-17-cd1006np-i7-10750H-16GB-512GB-Wi10-H-p-1-768335', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 17, 'name': 'Innjoo Voom 14.1" N3350 4GB 64GB W10', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt#', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 18, 'name': 'BMAX MaxBook Y13 13.3" Intel N4120 8GB 256GB SSD W10 (Teclado USA)', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt#', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 19, 'name': "Microsoft Surface Laptop 3 15'' AMD 8GB 128GB SSD - V4G-00010", 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt#', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 20, 'name': 'MSI GF63 Thin 10SCSR-876XES 15.6" I7-10750H 16GB 1TB', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/MSI-GF63-Thin-10SCSR-876XES-15-6-I7-10750H-16GB-1TB-p-1-687312', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 21, 'name': 'Fellowes Suporte Para Portátil Black - 8212001', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Acessorios-para-Portateis/Coolers-e-Bases-para-Portatil/Fellowes-Suporte-Para-Portatil-Black-8212001-p-1-548467', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 22, 'name': 'Asus ROG Flow X13 GV301QH-K6069T 13.4" Táctil AMD Ryzen 7 5800HS 16GB 512GB SSD', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/Asus-ROG-Flow-X13-GV301QH-K6069T-13-4-Tactil-AMD-Ryzen-7-5800HS-16GB-512GB-SSD-p-1-754155', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 23, 'name': 'Conceptronic Base para Portátil Ergo F Foldable Aluminum - 110505407', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Acessorios-para-Portateis/Coolers-e-Bases-para-Portatil/Conceptronic-Base-para-Portatil-Ergo-F-Foldable-Aluminum-110505407-p-1-644617', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 24, 'name': 'Microsoft Docking Station para Microsoft Surface Pro 4 - PD9-00008', 'price': '177,67', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Acessorios-para-Tablet/Dockings-e-Teclados-para-Tablet/Microsoft-Docking-Station-para-Microsoft-Surface-Pro-4-PD9-00008-p-1-440928', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 25, 'name': 'HP Backpack 15.6" - K0B39AA', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Acessorios-para-Portateis/Malas-e-Mochilas-para-Portatil/HP-Backpack-15-6-K0B39AA-p-1-417117', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 26, 'name': 'HP Notebook 14S-DQ0008NP 14" Celeron N4020 4GB 64GB eMMC', 'price': '292,80', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/HP-Notebook-14S-DQ0008NP-14-Celeron-N4020-4GB-64GB-eMMC-p-1-680092', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 27, 'name': 'HP Pavilion Gaming 15-ec2008np 15.6" R5 5600H 8GB 256GB SSD GTX 1650', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt#', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 28, 'name': "Microsoft Surface Laptop 3 13.5'' Core i5 8GB 256GB - V4C-00031", 'price': '999,00', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/Microsoft-Surface-Laptop-3-13-5-Core-i5-8GB-256GB-V4C-00031-p-1-624851', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 29, 'name': 'Dell Dock Thunderbolt WD19TB 180W - DELL-WD19TB', 'price': '309,99', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Acessorios-para-Portateis/Docking-Stations/Dell-Dock-Thunderbolt-WD19TB-180W-DELL-WD19TB-p-1-623843', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 30, 'name': 'Trust Ziva Laptop Cooling Stand - 21962', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Acessorios-para-Portateis/Coolers-e-Bases-para-Portatil/Trust-Ziva-Laptop-Cooling-Stand-21962-p-1-532686', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 31, 'name': 'Trust Microfone Primo - 21674', 'price': 'Not specified', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Perifericos/Microfones-para-PC/Trust-Microfone-Primo-21674-p-1-496147', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 32, 'name': 'Dell Docking Station Dell D6000 - DELL-D6000', 'price': '164,33', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Acessorios-para-Portateis/Docking-Stations/Dell-Docking-Station-Dell-D6000-DELL-D6000-p-1-562454', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 33, 'name': 'MSI Bravo 15 A4DCR-288XES 15.6" R5 4600H 8GB 512GB SSD RX 5300M S/SO (teclado espanhol)', 'price': '820,95', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Computadores/Portateis/MSI-Bravo-15-A4DCR-288XES-15-6-R5-4600H-8GB-512GB-SSD-RX-5300M-S-SO-teclado-espanhol-p-1-757130', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] DEBUG: Scraped from <200 https://www.kuantokusta.pt/search?q=laptop>
+{'id': 34, 'name': 'Lenovo ThinkPad DockStation USB/Type-C Gen2 - 40AS0090EU', 'price': '166,75', 'image': 'https://s1.kuantokusta.pt/img_upload/no_foto.jpg', 'link': 'https://www.kuantokusta.pt/informatica/Acessorios-para-Portateis/Docking-Stations/Lenovo-ThinkPad-DockStation-USB-Type-C-Gen2-40AS0090EU-p-1-597372', 'store': 'KuantoKusta'}
+2021-03-25 22:23:04 [scrapy] INFO: Closing spider (finished)
+2021-03-25 22:23:04 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 271,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 40188,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 1.546488,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 3, 25, 22, 23, 4, 581284),
+ 'item_scraped_count': 34,
+ 'log_count/DEBUG': 35,
+ 'log_count/INFO': 7,
+ 'memusage/max': 98590720,
+ 'memusage/startup': 98590720,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2021, 3, 25, 22, 23, 3, 34796)}
+2021-03-25 22:23:04 [scrapy] INFO: Spider closed (finished)

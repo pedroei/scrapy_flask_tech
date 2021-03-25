@@ -1,0 +1,133 @@
+2021-03-18 23:00:05 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.es/robots.txt> (referer: None)
+2021-03-18 23:00:06 [scrapy] DEBUG: Redirecting (301) to <GET https://www.amazon.es/ok/s?k=ok> from <GET https://www.amazon.es/s?k=ok&ref=nb_sb_noss_2>
+2021-03-18 23:00:07 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.es/ok/s?k=ok> (referer: None)
+2021-03-18 23:00:07 [scrapy] DEBUG: Scraped from <200 https://www.amazon.es/ok/s?k=ok>
+{'product_name': ['OK Jaanu',
+                  'It´s Not Ok To Feel Blue .. And Other Lies: Inspirational '
+                  'people open up about their mental health',
+                  'Los Fruittis',
+                  'Recamania Plato para microondas diametro Ø 245mm Universal',
+                  'OK ORCHESTRA [Explicit]',
+                  'The Grand Tour Season 2',
+                  'OK (feat. James Blunt) [The Remixes]',
+                  'Raabta',
+                  'Echo Dot (3.ª generación) - Altavoz inteligente con Alexa, '
+                  'tela de color malva',
+                  "OK K.O.! Let's Be Heroes: Notebook for kids Boy and Girl - "
+                  'Writing Journal - College-ruled - Journal (6x9 - 100 Pages '
+                  ')',
+                  'Baar Baar Dekho',
+                  'Befikre',
+                  'K.G.F: Chapter 1 (Telugu)',
+                  'Newton',
+                  'OK Human',
+                  'Soporte de TV Perlegear - Soporte de TV en Pared Inclinable '
+                  'para Televisores de 26 a 55 Pulgadas con Carga de 45 kg, '
+                  'VESA máx. De 400 x 400 mm',
+                  "It's OK Not to Be OK: Good Advice and Kind Words for "
+                  'Positive Mental Well-Being',
+                  'Supernatural - Season 13',
+                  'Jaanu',
+                  'LE Lámpara de Mesa WiFi Inteligente, Lámpara de Noche WiFi, '
+                  'RGB Blanco Regulable (2000K - 6000K), Luz Nocturna WiFi '
+                  'Táctil Compatible con Alexa y Google Assistant, Ideal para '
+                  'Descansar, Leer y etc',
+                  'Hichki',
+                  "I'm Ok, You're Ok: A practical guide to Transactional "
+                  'Analysis',
+                  'OK (feat. James Blunt)',
+                  "Dawson's Creek, Season 3",
+                  'Soporte de TV Pared Articulado Inclinable Y Giratorio – '
+                  'Soporte De TV para Pantallas De 13-42” TV – MAX VESA '
+                  '200x200mm, para Soportar 20kg',
+                  'Depil-Ok Cera Depilatoria 1 Unidad, 1000 g',
+                  "It's OK That You're Not OK: Meeting Grief and Loss in a "
+                  "Culture That Doesn't Understand",
+                  'Luv Ka The End',
+                  'Gunfight at Ok Corral',
+                  'Nexus - Altavoz Inteligente Google Home Mini Coral - '
+                  'Altavoces - Los Mejores Precios',
+                  "it's ok notebook , journal ,best gift 6*9 100pages: it's ok "
+                  'journal and notebook',
+                  'OK Cowboy',
+                  'Despertador Infantil - Niños Entrenador de Dormir LED '
+                  'despertador luz Digital, 2400mAh Recargable con 2 Alarmas, '
+                  '3 Modos, 6 Sonidos Naturales, 7 Luces de Colores '
+                  'Ajustables, Función Snooze',
+                  'PETZL Ok Ovalkarabiner',
+                  'Babysun Anillo Ok Bebé Baño Flipper verde menta',
+                  'OK, señor Foster: 113 (Alandar)',
+                  'OK Computer',
+                  "OK K.O.! Let's Be Heroes: Notebook For Kids Boys & Girls, "
+                  'College-ruled … Composition Book 6x9 - 100 Pages',
+                  'Oldboy',
+                  'Cecotec Microondas All Black. 700 W de Potencia, Capacidad '
+                  'de 20 l, 6 niveles de Potencia, Temporizador 30 min, Modo '
+                  'Descongelar, Acabado en espejo',
+                  'OK: (notebook)',
+                  'BIOOK Bolsas Caca Perro 100% Biodegradable con 1 '
+                  'Dispensador, Materiales Basados en PLA y Compostables '
+                  'Premium Ecológico, Fuertes, Resistente a Fugas, Sin '
+                  'Perfume, EN13432 y Ok Compost Certificación',
+                  'JINSEI KAKETE BOKU WA',
+                  'Perlegear Soporte de Pared para TV, el Soporte de Pared '
+                  'para TV para televisores de 10 a 32 Pulgadas de hasta 20 '
+                  'kg, VESA máximo 100 x 100mm, 75x75mm',
+                  'Ok: The Resurrection of GW-BASIC',
+                  "It's Okay To Be Different (Todd Parr Classics)",
+                  'Sonic The Hedgehog',
+                  "Franco et l'OK Jazz, 1961-1962 (Merveilles du passé, vol. "
+                  '3)'],
+ 'product_price': ['14,72',
+                   '11,99',
+                   '39,99',
+                   '7,23',
+                   '17,99',
+                   '10,89',
+                   '42,99',
+                   '12,10',
+                   '21,99',
+                   '12,90',
+                   '16,37',
+                   '5,99',
+                   '41,98',
+                   '6,56',
+                   '26,99',
+                   '9,95',
+                   '36,70',
+                   '10,20',
+                   '7,23',
+                   '59,90',
+                   '6,88',
+                   '17,99',
+                   '21,99',
+                   '13,88',
+                   '7,88',
+                   '3,99']}
+2021-03-18 23:00:07 [scrapy] INFO: Closing spider (finished)
+2021-03-18 23:00:07 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 795,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'downloader/response_bytes': 101126,
+ 'downloader/response_count': 3,
+ 'downloader/response_status_count/200': 2,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 1.557999,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 3, 18, 23, 0, 7, 308952),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 4,
+ 'log_count/INFO': 7,
+ 'memusage/max': 44322816,
+ 'memusage/startup': 44322816,
+ 'response_received_count': 2,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2021, 3, 18, 23, 0, 5, 750953)}
+2021-03-18 23:00:07 [scrapy] INFO: Spider closed (finished)

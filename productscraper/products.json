@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "name": "Hp Elite 8300 - Ordenador de sobremesa (Intel Core i5-3470, 8GB de RAM, Disco HDD de 500GB, Lector DVD, Windows 10 PRO ES 64) - Negro (Reacondicionado)",
+    "price": "162,00",
+    "image": "https://m.media-amazon.com/images/G/30/gaming2020/trafficdrivers/sparkle/688x346_sparkle._QL95_SY80_.jpg",
+    "link": "https://www.amazon.es/Elite-8300-Ordenador-Reacondicionado-Certificado/dp/B0792TQ4XS?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 2,
+    "name": "Hp Elite 8300 - Ordenador de sobremesa (Intel Core i5-3470, 8GB de RAM, Disco HDD de 500GB, Lector DVD, Windows 10 PRO ES 64) - Negro (Reacondicionado)",
+    "price": "162,00",
+    "image": "https://m.media-amazon.com/images/I/41fSnKGla8L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Elite-8300-Ordenador-Reacondicionado-Certificado/dp/B0792TQ4XS?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 3,
+    "name": "NITROPC - PC Gaming Pack Bronze Rebajas | PC Gamer (CPU Intel G6400 2/4 x 4,00Ghz (Turbo) | Gr\u00e1fica GT 1030 2GB) + Monitor 21,5\" + Teclado + rat\u00f3n + Cascos | RAM 16GB | M.2 256GB | HDD 1TB",
+    "price": "719,21",
+    "image": "https://m.media-amazon.com/images/I/71n79b1i2+L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/NITROPC-Rebajas-Gr%C3%A1fica-Monitor-Teclado/dp/B0851KH3SF?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 4,
+    "name": "ACEPC Mini PC, Windows 10 Pro 8GB DDR3 / 128GB eMMC Intel Atom Z8350 Mini computadora de Escritorio sin Ventilador con 4K HD, Salida HDMI + VGA, WiFi 2.4G / 5G, Gigabit Ethernet, BT 4.2",
+    "price": "189,90",
+    "image": "https://m.media-amazon.com/images/I/61nlUkOvgcL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/ACEPC-computadora-Escritorio-Ventilador-Ethernet/dp/B08FSNCVW4?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 5,
+    "name": "ACEPC AK1 Mini PC,6GB RAM + 128GB SSD,Intel Celeron J3455,Windows 10 (64 bits) Ordenador, Soporte mSATA/2.5 '' SSD/HDD/4K/2.4G+5G Band WiFi/Gigabit Ethernet/Bluetooth 4.2",
+    "price": "161,49",
+    "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/8e898c4c-d974-43e7-ba93-ea807514e776._CR0,0,500,500_SX50_._TTW_.jpg",
+    "link": "https://www.amazon.es/ACEPC-Procesador-Computadora-Escritorio-Ethernet/dp/B07JGHB1ZD?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 6,
+    "name": "ACEPC AK1 Mini PC,6GB RAM + 128GB SSD,Intel Celeron J3455,Windows 10 (64 bits) Ordenador, Soporte mSATA/2.5 '' SSD/HDD/4K/2.4G+5G Band WiFi/Gigabit Ethernet/Bluetooth 4.2",
+    "price": "161,49",
+    "image": "https://m.media-amazon.com/images/I/61l0NySDVOL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/ACEPC-Procesador-Computadora-Escritorio-Ethernet/dp/B07JGHB1ZD?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 7,
+    "name": "Beelink BT3 Pro II Mini PC Ordenador de sobremesa Soporte Windows 10 Home Sistema, 4GB RAM, 64GB eMMC ROM, Intel Atom x5-Z8350 Procesador, Dual-Band WiFi, Gigabit Ethernet, Salida HDMI/USB/SD/VGA",
+    "price": "130,99",
+    "image": "https://m.media-amazon.com/images/I/51T08E0ZJ+L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/SeeKool-Ordenador-sobremesa-Procesador-Dual-Band/dp/B07CQGRZKF?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 8,
+    "name": "CHUWI Herobox Mini pc Intel Gemini-Lake N4100 Windows10 OS, Quad Core 64 bit 1.1GHz a 2.4GHz, 8GB RAM 180GB ROM, expandible a 1T HDD, HDPC 2.2, BT 4.0 y Dual WiFi computadora de escritorior",
+    "price": "199,00",
+    "image": "https://m.media-amazon.com/images/I/51S2p0iVE6L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/CHUWI-Gemini-Lake-expandible-computadora-escritorior/dp/B089F5SJJM?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 9,
+    "name": "Mini PC Stick,T6 Fanless Intel Atom Z8350 Computer con Windows 10 Pro 64 bits/4 GB DDR + 64 GB eMMC/4K HD/Bluetooth 4.2/Dual WiFi/USB 3.0",
+    "price": "139,90",
+    "image": "https://m.media-amazon.com/images/I/61ykT2DKDJL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Stick-Fanless-Computer-Windows-Bluetooth/dp/B07T4JHNK4?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 10,
+    "name": "HP Elite 8300 - Ordenador de sobremesa (Intel Core i7-3770, 16GB de RAM, Disco SSD 240GB + 500GB HDD, Lector DVD, Windows 10 Pro ES 64) - Negro (Reacondicionado)",
+    "price": "299,00",
+    "image": "https://m.media-amazon.com/images/I/71+4c3udwZL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/HP-Elite-8300-Ordenador-Reacondicionado/dp/B07RL3H2JB?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 11,
+    "name": "Hp Elite 8300 - Ordenador de sobremesa (Intel Core i5-3470, 8GB de RAM, Disco SSD de 240GB, Lector DVD, Windows 10 PRO ES 64) - Negro (Reacondicionado)",
+    "price": "195,00",
+    "image": "https://m.media-amazon.com/images/I/71YPqE2xOML._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Elite-8300-Ordenador-Reacondicionado-Certificado/dp/B0792V2KRG?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 12,
+    "name": "PC Megaport Ordenador AMD Athlon 3000G 2X 3.50GHz \u2022 AMD Radeon Vega 3 \u2022 8GB DDR4 \u2022 1TB \u2022 USB3.0 Desktop pc \u2022 1TB Disco Duro \u2022 Windows 10",
+    "price": "439,00",
+    "image": "https://m.media-amazon.com/images/I/61aeiqCfDhL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/PC-Gaming-Megaport-Ordenador-sobremesa/dp/B07ZVLZZBS?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 13,
+    "name": "CHUWI CoreBox Mini pc, Intel Core i5 Windows10 OS, Doble Core 64 bit 2.7GHz hasta 3.3GHz, 8GB RAM 256GB ROM, HDPC 2.2, BT 4.0 y Dual WiFi",
+    "price": "299,00",
+    "image": "https://m.media-amazon.com/images/I/41yMdl8lujL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/CHUWI-CoreBox-Windows10-2-7GHz-3-3GHz/dp/B08BYFN5BC?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 14,
+    "name": "PC Gaming - Megaport Ordenador Gaming PC AMD Ryzen 5 3500X 6x4.10GHz Turbo \u2022 GeForce GTX1660 6GB \u2022 1000GB HDD \u2022 240GB SSD \u2022 16GB RAM \u2022 WLAN \u2022 Windows 10 \u2022 PC Gamer \u2022 Ordenador de sobremesa",
+    "price": "949,00",
+    "image": "https://m.media-amazon.com/images/I/61RhOGwcMfL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/PC-Gaming-Ordenador-6x3-90GHz-sobremesa/dp/B07ZVNBZ7R?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 15,
+    "name": "PC Gaming - Megaport Ordenador Gaming PC Intel Core i7-10700F 8X 2.90GHz \u2022 GeForce RTX 2060 6GB \u2022 16 GB DDR4 \u2022 480GB SSD \u2022 1TB HDD \u2022 Windows 10 \u2022 WiFi \u2022 PC Gamer \u2022 Ordenador de sobremesa",
+    "price": "1.249,00",
+    "image": "https://m.media-amazon.com/images/I/61QV5q9jSjL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/PC-Gaming-Megaport-Ordenador-sobremesa/dp/B07ZVSB72T?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 16,
+    "name": "ACEPC Mini PC, 8 GB DDR4 / 128 GB ROM, Intel Celeron J4125 Windows 10 Pro Mini computadora, WiFi de Banda Dual 2.4 G / 5 G, Conexiones 4K HD, HDMI/VGA \u2026",
+    "price": "249,90",
+    "image": "https://m.media-amazon.com/images/I/71L7VJ+1rnL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/ACEPC-Celeron-Windows-computadora-Conexiones/dp/B0899F2N5J?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 17,
+    "name": "Hp Elite 8300 SFF - Ordenador de sobremesa (Intel Core i5-3470, 3.2 GHz, 8GB de RAM, Disco SSD de 240GB + 500GB HDD, Lector, Windows 10 Pro ES 64) (Reacondicionado)",
+    "price": "205,00",
+    "image": "https://m.media-amazon.com/images/I/71JDRql8eBL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Elite-8300-SFF-Ordenador-Reacondicionado/dp/B0888B2Z8V?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 18,
+    "name": "HP Pavilion Desktop TP01-1018ns PC - Ordenador de sobremesa (Intel Core i5-10400, 16 GB RAM, 512 GB SSD, Windows 10), Plateado",
+    "price": "599,99",
+    "image": "https://m.media-amazon.com/images/I/61DIwrxOsuL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/HP-Pavilion-Desktop-TP01-1018ns-Ordenador/dp/B08WKM77V3?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 19,
+    "name": "PC Gaming - Megaport Ordenador Gaming PC AMD Ryzen 7 3700X \u2022 GeForce RTX3060 12GB \u2022 1TB M.2 High Performance SSD \u2022 16GB DDR4 3000 \u2022 WLAN \u2022 Windows 10 \u2022 PC Gamer",
+    "price": "1.429,00",
+    "image": "https://m.media-amazon.com/images/I/61Na2dZWJGL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/PC-Gaming-Megaport-Ordenador-Performance/dp/B08XLN7HVD?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 20,
+    "name": "BMAX Mini PC B2 8GB DDR4/128GB ROM expandible SSD Windows 10 Intel Celeron N3450 Corebox Ordenadores de Sobremesa Dual WiFi/HDMI x2/USB x4/Bluetooth 4.2/Gigabit Ethernet computadora de escritorior",
+    "price": "161,49",
+    "image": "https://m.media-amazon.com/images/I/61SYlua0nuL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/BMAX-expandible-Ordenadores-computadora-escritorior/dp/B08HLPX1Q2?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 21,
+    "name": "ACEPC AK1 Mini PC,6GB RAM + 128GB SSD,Intel Celeron J3455,Windows 10 (64 bits) Ordenador, Soporte mSATA/2.5 '' SSD/HDD/4K/2.4G+5G Band WiFi/Gigabit Ethernet/Bluetooth 4.2",
+    "price": "161,49",
+    "image": "https://m.media-amazon.com/images/I/61l0NySDVOL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/ACEPC-Procesador-Computadora-Escritorio-Ethernet/dp/B07JGHB1ZD?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 22,
+    "name": "Mini PC Windows 10 Pro,ACEPC Prozessor Inter Celeron J3455,6GB RAM/128 ROM, Mini Computadora con 2.5 Pulgadas HDD/SSD Bay/4K HD/WLAN de Doble Banda/Gigabit Ethernet/Bluetooth 4.2 /LAN de 1000 Mbps",
+    "price": "189,90",
+    "image": "https://m.media-amazon.com/images/I/61QB3qPmfVL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/ACEPC-Prozessor-Computadora-Pulgadas-Bluetooth/dp/B08D36YMX7?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 23,
+    "name": "PC Dell 7010 SFF Intel Core i5 3470 3,20 GHz / RAM 8 GB / 500 GB / DVD + RW / Win 10 PRO (reacondicionado)",
+    "price": "209,00",
+    "image": "https://m.media-amazon.com/images/I/61XKZRw1NHL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/DELL-Intel-3-20Ghz-500GB-reacondicionado/dp/B07RK9N3WM?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 24,
+    "name": "BMAX B3 Mini PC Intel Core i3 Processor DDR3L 8GB/128GB SSD Windows 10 Desktop PC Support Expandable with Intel HD Graphics 5500 Dual HDMI Dual Display",
+    "price": "249,99",
+    "image": "https://m.media-amazon.com/images/I/41uE5TIsN4L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Processor-Windows-Desktop-Expandable-Graphics/dp/B08T9C2JP3?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 25,
+    "name": "Mini PC AMD Ryzen 7 Pro 2700U | 16 GB RAM 512 GB SATA SSD | Gr\u00e1ficos Radeon Vega 10 | Windows 10 Pro | Intel WIFI6 AX200 BT 5.1 | HDMI 2.0 / Pantalla/USB-C | 2X RJ45 | 4X USB 3.1",
+    "price": "649,99",
+    "image": "https://m.media-amazon.com/images/I/61SE5+cajPL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Ryzen-Gr%C3%A1ficos-Radeon-Windows-Pantalla/dp/B08XZQKCSY?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 26,
+    "name": "CHUWI Herobox Mini pc Intel Gemini-Lake N4100 Windows10 OS, Quad Core 64 bit 1.1GHz a 2.4GHz, 8GB RAM 180GB ROM, expandible a 1T HDD, HDPC 2.2, BT 4.0 y Dual WiFi computadora de escritorior",
+    "price": "199,00",
+    "image": "https://m.media-amazon.com/images/I/51S2p0iVE6L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/CHUWI-Gemini-Lake-expandible-computadora-escritorior/dp/B089F5SJJM?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 27,
+    "name": "ACEPC Mini PC, Intel Core i5-5257U, Windows 10 Pro, 8 GB de RAM, 128 GB de Disco Duro mSATA, Soporte Triple Pantalla 6 Puertos USB, RS232 COM, 2.4G, 5G Dual WiFi, 2 LAN/BT 4.2.\u2026\u2026",
+    "price": "339,90",
+    "image": "https://m.media-amazon.com/images/I/71DNOaBVe8L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/ACEPC-i5-5257U-Windows-Soporte-Pantalla/dp/B08S6YQNC1?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 28,
+    "name": "Mini PC AMD Ryzen 5 PRO 2500U | 16 GB RAM 512 GB M.2 SSD | Radeon Vega 8 Graphics | Windows 10 Pro | Intel WIFI6 AX200 BT 5.1 | 4K HDMI 2.0 Display USB-C | 2X RJ45 | 4X USB 3.1| Peque\u00f1o Formato",
+    "price": "509,99",
+    "image": "https://m.media-amazon.com/images/I/61z8k3SNjNL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Graphics-Windows-Display-Peque%C3%B1o-Formato/dp/B08R38SJWV?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 29,
+    "name": "MINIS FORUM Mini PC Procesador Intel Celeron J3455 (hasta 2.3GHz), Escritorio 8G LPDDR4 / 64GB eMMC Windows 10 Pro HDMI y VGA Pantalla 2.4G + 5G Dual WiFi USB 3.0 / BT 4.2 Compatible con Linux, WOL",
+    "price": "189,99",
+    "image": "https://m.media-amazon.com/images/I/61tydunYMtL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/MINIS-FORUM-Procesador-Escritorio-Compatible/dp/B08X75V165?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 30,
+    "name": "Mini PC 16GB de RAM Actualizable SSD de 256 GB Procesador Intel Core i5-5257U (hasta 3.1Ghz),Ordenadores de Sobremesa Windows 10 Pro 4K HD con puerto USB-C / HDMI / Mini DP,2X Ethernet Wi-Fi Dual",
+    "price": "419,99",
+    "image": "https://m.media-amazon.com/images/I/61ucDP1NwKL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Actualizable-Procesador-i5-5257U-Ordenadores-Sobremesa/dp/B08PYRFY8R?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 31,
+    "name": "BMAX Micro Mini PC 6GB DDR4 64GB ROM Intel Celeron N3350 (Fino a 2,4GHz) Windows 10 (64 bit) Desktop Computer Ordenador de sobremesa Soporte Windows 10 Dual-Band WiFi, con Puertos HDMI/USB 3.0/VGA",
+    "price": "139,99",
+    "image": "https://m.media-amazon.com/images/I/61+yj7j8F-L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Celeron-Computer-Ordenador-sobremesa-Dual-Band/dp/B08R5SBNXS?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 32,
+    "name": "ALLDOCUBE SuperBox Mini PC, Intel Celeron J4005, 6GB RAM 128GB ROM, Soporte M.2 SSD, Windows 10 Home",
+    "price": "179,99",
+    "image": "https://m.media-amazon.com/images/I/61HfiuHtc2L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/ALLDOCUBE-SuperBox-Celeron-Soporte-Windows/dp/B08X4G1DJV?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 33,
+    "name": "HP Elite 8300 SFF Ordenador de Sobremesa (i5-3470 3.20GHz 8GB de RAM, 500GB de HDD,Lector DVD, WiFi Windows 10 Professional) (Reacondicionado)",
+    "price": "174,00",
+    "image": "https://m.media-amazon.com/images/I/71+4c3udwZL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Ordenador-Sobremesa-i5-3470-Professional-Reacondicionado/dp/B07MHW24Z1?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 34,
+    "name": "Lenovo Legion T5 Gaming - Ordenador de sobremesa (Intel Core i5-10400, 8GB RAM, 512GB SSD, Tarjeta gr\u00e1fica NVIDIA RTX2060-6GB, Teclado y rat\u00f3n USB - Color Negro",
+    "price": "906,31",
+    "image": "https://m.media-amazon.com/images/I/61enLAvU54L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Lenovo-Legion-Gaming-Ordenador-RTX2060-6GB/dp/B08L6NZR8W?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 35,
+    "name": "NITROPC - PC Gamer VX *REBAJAS* (CPU Intel 10100, 4/8N x 4,30Ghz (turbo), T. Gr\u00e1fica Nvidia GTX 1050Ti 4GB, SSD 480GB, Ram 8GB, Windows 10 preliminar) + WIFI de regalo. pc gamer, pc gaming, pc para juegos, ordenador juegos",
+    "price": "599,22",
+    "image": "https://m.media-amazon.com/images/I/71sOxyWNsTL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/NITROPC-REBAJAS-Quad-core-preliminar-ordenador/dp/B012D57MWS?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 36,
+    "name": "MINIS FORUM Mini PC 8GB LPDDR4 SSD 256GB Procesador Intel Celeron J4125 Quad Core (hasta 2.7GHz) Mini computadora con 4X Puertos USB 3.0 2X Gigabit Ethernet 4K HDMI/DP Port Wi-Fi de Doble Banda BT 5.0",
+    "price": "259,99",
+    "image": "https://m.media-amazon.com/images/I/71RD7GDgU+L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Procesador-Celeron-computadora-Puertos-Ethernet/dp/B089CNZL8S?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 37,
+    "name": "Mini PC, procesador AMD Ryzen 5 3400GE 16 GB DDR4 / 256GB SSD Mini computadora de Escritorio con Windows 10 Pro, conexi\u00f3n HDMI y DP, BT 5.1, USB 3.0 * 4",
+    "price": "559,99",
+    "image": "https://m.media-amazon.com/images/I/61z-ys1E8EL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/procesador-computadora-Escritorio-Windows-conexi%C3%B3n/dp/B08SC46FQZ?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 38,
+    "name": "Mini PC, Aerofara Aero 2 Windows 10 Mini computadora de Escritorio 8GB LPDDR4 / 256GB SSD, CPU Intel Celeron J4125, HDMI + VGA Dual Display, Dual WiFi, 3 * USB 3,0",
+    "price": "249,00",
+    "image": "https://m.media-amazon.com/images/I/71zPzosDQ5L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Aerofara-Windows-computadora-Escritorio-Celeron/dp/B08T6WQR32?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 39,
+    "name": "Mini PC con Windows 10 Pro, procesador Intel Celeron N3350, 8 GB de RAM y 128 GB de ROM, computadora de Escritorio, WiFi de Doble Banda 2.4G / 5.0G, Salida HDMI 4K, Soporte 2X USB 3.0,1 * USB2.0",
+    "price": "199,90",
+    "image": "https://m.media-amazon.com/images/I/71mVcFSuvkL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Windows-procesador-Celeron-computadora-Escritorio/dp/B08PK8P1XB?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 40,
+    "name": "Medion S22003 MD34639 - MiniPC Ordenador de Sobremesa (Intel Core i3-5005U, 8GB RAM, 512GB SSD, Intel HD Graphics, sin Sistema Operativo) Negro",
+    "price": "299,99",
+    "image": "https://m.media-amazon.com/images/I/71Fz851A0vL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Medion-S22003-MD34639-Ordenador-Sobremesa/dp/B084PRKT3F?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 41,
+    "name": "Beelink U55 Mini PC Ordenador de Sobremesa con Windows 10, CPU Intel Core i3-5005U, 8GB RAM + 128GB SSD, 2.4 + 5.8GHz WiFi, Intel HD Graphics 5500, 4K, 1000Mbps, BT 4.0",
+    "price": "274,00",
+    "image": "https://m.media-amazon.com/images/I/51EiLcwLS+L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Beelink-Ordenador-Sobremesa-i3-5005U-Graphics/dp/B08RD5FB59?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 42,
+    "name": "Mini PC, procesador AMD Ryzen 7 3750H de Cuatro n\u00facleos, Mini computadora de Escritorio DDR4 / 512GB SSD de 16 GB actualizable con Windows 10 Pro, conexi\u00f3n HDMI, DP y USB C, BT 5.1",
+    "price": "699,99",
+    "image": "https://m.media-amazon.com/images/I/51lTvgVGHDL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/procesador-computadora-Escritorio-actualizable-conexi%C3%B3n/dp/B08R5C5BCS?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 43,
+    "name": "Lenovo ThinkCentre M92p SFF - Ordenador de sobremesa (Intel Core I5-3470 3.2 GHz, 8GB de RAM, Disco HDD 500GB, Lector DVD, Windows 10 Pro) Negro (Reacondicionado)",
+    "price": "158,00",
+    "image": "https://m.media-amazon.com/images/I/41RY-izBvSL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Lenovo-ThinkCentre-M92p-SFF-Reacondicionado/dp/B07KRZ9DWK?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 44,
+    "name": "Ordenador fijo Intel Core i7 Quad Core \u2013 RAM 16 GB \u2013 SSD 240 \u2013 HDD 1 TB \u2013 Tarjeta de v\u00eddeo dedicada 4 GB \u2013 Licencia original Microsoft Windows 10 Pro \u2013 Masterizador DVD \u2013 PC Desktop",
+    "price": "633,57",
+    "image": "https://m.media-amazon.com/images/I/41Oy5JnR32L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Ordenador-fijo-Intel-Core-Quad/dp/B088FX777X?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 45,
+    "name": "Mini PC AMD Ryzen 5 3400GE | 16 GB RAM 512 GB M.2 PCIe SSD | Radeon Vega 11 Graphics | Windows 10 Pro | Intel WIFI6 AX200 BT 5.1 | 4K HDMI 2.0 / DisplayPort | 2 x RJ45 | 4 x USB 3.0",
+    "price": "599,99",
+    "image": "https://m.media-amazon.com/images/I/61k8YwwV8kL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/3400GE-Radeon-Graphics-Windows-DisplayPort/dp/B08SBN87P4?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 46,
+    "name": "Fujitsu Esprimo Q920 - Disco duro, procesador Intel Core i5 de 240 GB SSD, 8 GB de memoria, Windows 10 Pro Business Desktop Computer Mini PC (Reacondicionado)",
+    "price": "229,00",
+    "image": "https://m.media-amazon.com/images/I/51q1TOIDhpL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Fujitsu-Esprimo-Q920-procesador-Q0920P0048DE/dp/B0854LM164?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 47,
+    "name": "HP EliteDesk 800 G1 - Ordenador de sobremesa (Intel Core i5-4570, 16GB de RAM, Disco SSD de 480GB, Sin lector, Windows 10 Pro ES 64) - Negro (Reacondicionado)",
+    "price": "249,00",
+    "image": "https://m.media-amazon.com/images/I/61zXzUW7YrL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/HP-EliteDesk-800-Ordenador-Reacondicionado/dp/B07T65QX6H?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 48,
+    "name": "Intel NUC i5-7260U + 8GB DDR4 + 240GB SSD M.2 + Windows 10 Pro ESPA\u00d1OL | Mini PC - NUC7I5BNH",
+    "price": "475,00",
+    "image": "https://m.media-amazon.com/images/I/61TCnIW94vL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Intel-i5-7260U-240GB-Windows-ESPA%C3%91OL/dp/B07G4JHP2Z?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 49,
+    "name": "HP All-in-One 24-df0100ns - Ordenador de sobremesa de 24\" (Intel Core i5-10400T, 16 GB RAM, 512 GB SSD, FreeDOS), plateado - Teclado QWERTY Espa\u00f1ol",
+    "price": "649,99",
+    "image": "https://m.media-amazon.com/images/I/71vSab5Xq7L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/HP-All-One-24-df0100ns-Ordenador/dp/B08WKKCFLP?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 50,
+    "name": "Megamania PC Gaming AMD Ryzen 5 3400G, Ordenador de sobremesa 4.2GHz Turbo Quad Core | 16GB DDR4 | SSD 480GB | Gr\u00e1fica AMD Radeon Vega RX 11 + Monitor LED FullHD 22\" + Kit Teclado rat\u00f3n Regalo",
+    "price": "895,00",
+    "image": "https://m.media-amazon.com/images/I/61lu5AR6aNL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Megamania-Ordenador-sobremesa-Gr%C3%A1fica-Monitor/dp/B07XTJZ5RD?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 51,
+    "name": "Beelink SEi10 Mini PC con Procesador Intel 10th Gen i3-10110U (Turbo 4.1Ghz), 8G DDR4 + 256GB NVMe PCIe M.2 2280 SSD, WiFi 6 (802.11ax), 1000Mbps, Dual HDMI, BT 5.0, Type-C, 4 * USB 3.0, Windows 10",
+    "price": "429,00",
+    "image": "https://m.media-amazon.com/images/I/7174crFDnbL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Beelink-Procesador-i3-10110U-802-11ax-1000Mbps/dp/B08NCNX3LH?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 52,
+    "name": "Ankermann Business Office Work PC PC Intel i5 4570 4X 3.20GHz NVIDIA GeForce GT 16GB RAM 240GB SSD 1TB HDD Windows 10 Pro Silent W-LAN Office Professional",
+    "price": "Not specified",
+    "image": "https://m.media-amazon.com/images/I/71HGaQ15deL._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/ANKERMANN-PC-Extreme-4x3-40-NVIDIA-GeForce/dp/B07T46LNGK?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 53,
+    "name": "HP Elite 8300 - Ordenador de sobremesa Completo + TFT 22\" (Intel Core I5-3470, 8GB RAM,Disco HDD 500GB, WiFi, Windows 10 Profesional 64 bits) (Reacondicionado)",
+    "price": "266,00",
+    "image": "https://m.media-amazon.com/images/I/61JP3CNSy1L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/HP-Elite-8300-Profesional-Reacondicionado/dp/B088WYYY6V?dchild=1",
+    "store": "Amazon ES"
+  },
+  {
+    "id": 54,
+    "name": "Beelink U57 Mini PC Windows 10, Intel Core i5-5257U Procesador (hasta 3.10GHz), Mini Computadora de Escritorio con 8G RAM+ 256G SSD/Dual HDMI/Dual WiFi/Tipo C/Gigabit Ethernet/BT 4.0",
+    "price": "354,00",
+    "image": "https://m.media-amazon.com/images/I/61lL9CgCp7L._AC_UL320_.jpg",
+    "link": "https://www.amazon.es/Beelink-i5-5257U-Procesador-Computadora-Escritorio/dp/B08DFL2L1F?dchild=1",
+    "store": "Amazon ES"
+  }
+]
