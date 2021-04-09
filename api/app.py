@@ -56,10 +56,15 @@ def scrapeLowest(term):
         else:
             element["price"] = 0
 
-    #TODO: replace the ones with price=0 to "Not specified" & put them on the end
     sortedList = sorted(data, key=lambda x: x['price'])
 
-    return jsonify(sortedList)
+    for sortedElement in sortedList:
+        if sortedElement["price"] == 0:
+            sortedElement["price"] = "Not specified"
+
+    newSortedList = sorted(sortedList, key=lambda x: x['price'] == 'Not specified')
+
+    return jsonify(newSortedList)
        
 if __name__ == '__main__':
     app.run(debug=True, port=1234)
