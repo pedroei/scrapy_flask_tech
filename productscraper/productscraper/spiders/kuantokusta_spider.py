@@ -1,5 +1,6 @@
 import scrapy
 from ..items import ProductscraperItem
+from datetime import datetime
 
 class KuantoKustaSpider(scrapy.Spider):
     name = 'kuantokusta'
@@ -17,6 +18,7 @@ class KuantoKustaSpider(scrapy.Spider):
             prod_price = products.css('span.big-price-interval::text').get()
             prod_img = products.css('.img-responsive').xpath('@src').get()
             prod_link = 'https://www.kuantokusta.pt' + products.css('.btn.product-item-btn').attrib['href']
+            scrape_date = datetime.now()
 
             if prod_price is None:
                 prod_price = 'Not specified'
@@ -36,7 +38,8 @@ class KuantoKustaSpider(scrapy.Spider):
                     'price': prod_price,
                     'image': prod_img,
                     'link': prod_link,
-                    'store': 'KuantoKusta'
+                    'store': 'KuantoKusta',
+                    'scrape_date': scrape_date
                 }
         #TODO: next page
 

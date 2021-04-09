@@ -1,5 +1,6 @@
 import scrapy
 from ..items import ProductscraperItem
+from datetime import datetime
 
 class EbaySpider(scrapy.Spider):
     name = 'ebay'
@@ -17,6 +18,7 @@ class EbaySpider(scrapy.Spider):
             prod_price = products.css('span.s-item__price::text').get()
             prod_img = products.css('img.s-item__image-img').xpath('@src').get()
             prod_link = products.css('a.s-item__link').xpath('@href').get()
+            scrape_date = datetime.now()
 
             if prod_price is None:
                 prod_price = 'Not specified'
@@ -33,6 +35,7 @@ class EbaySpider(scrapy.Spider):
                     'price': prod_price,
                     'image': prod_img,
                     'link': prod_link,
-                    'store': 'Ebay'
+                    'store': 'Ebay',
+                    'scrape_date': scrape_date
                 }
         #TODO: next page

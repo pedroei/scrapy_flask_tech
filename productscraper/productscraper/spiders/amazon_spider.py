@@ -1,5 +1,6 @@
 import scrapy
 from ..items import ProductscraperItem
+from datetime import datetime
 
 class AmazonSpider(scrapy.Spider):
     name = 'amazon'
@@ -17,6 +18,7 @@ class AmazonSpider(scrapy.Spider):
             prod_price = products.css('.a-price-whole::text').get()
             prod_img = products.css('img.s-image').xpath('@src').get()
             prod_link = products.css('.a-link-normal.a-text-normal').xpath('@href').get()
+            scrape_date = datetime.now()
 
             if prod_price is None:
                 prod_price = 'Not specified'
@@ -34,7 +36,8 @@ class AmazonSpider(scrapy.Spider):
                     'price': prod_price,
                     'image': prod_img,
                     'link': prod_link,
-                    'store': 'Amazon ES'
+                    'store': 'Amazon ES',
+                    'scrape_date': scrape_date
                 }
         #TODO: next page
         #next_page = response.css('li.a-last>a').attrib['href']
