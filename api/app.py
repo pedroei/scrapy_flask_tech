@@ -1,9 +1,16 @@
 from __future__ import unicode_literals
-import json
+import json, bson
 import requests
 import pandas as pd
+import pymongo
+from bson import ObjectId
 
 from flask import Flask, request, Response, render_template, session, redirect, url_for, jsonify
+from pymongo import MongoClient
+
+cluster = MongoClient('localhost', 27017)
+db = cluster["products"]
+collection = db['products']
 
 websites_to_scrape = ['amazon', 'ebay', 'kuantokusta']
 
@@ -22,6 +29,12 @@ def scrape_website(website_name, term):
         items_name: items
     }
     return res
+
+class JSONEncoder(json.JSONEncoder):
+    def default(self, o):
+        if isinstance(o, ObjectId):
+            return str(o)
+        return json.JSONEncoder.default(self, o)
 
 app = Flask(__name__)
 
@@ -65,7 +78,19 @@ def scrapeLowest(term):
     newSortedList = sorted(sortedList, key=lambda x: x['price'] == 'Not specified')
 
     return jsonify(newSortedList)
-       
+
+@app.route('/previous')
+def getPreviousData():
+    results = []
+
+    # for product in collection.find({"name": "/.*" + name + ".*/"}):
+    for product in collection.find():
+        product['_id'] = str(product['_id'])
+        product["scrape_date"] = product["scrape_date"].strftime("%m/%d/%Y, %H:%M:%S")
+        results.append(product)
+
+    return jsonify(results)
+
 if __name__ == '__main__':
     app.run(debug=True, port=1234)
 
