@@ -1,18 +1,19 @@
 from __future__ import unicode_literals
-import json, bson
+import json
 import requests
-import pandas as pd
-import pymongo
 from bson import ObjectId
 
-from flask import Flask, request, Response, render_template, session, redirect, url_for, jsonify
+from flask import Flask, jsonify
 from pymongo import MongoClient
 
 cluster = MongoClient('localhost', 27017)
-db = cluster["products"]
-collection = db['products']
+# db = cluster["products"]
+db = cluster["products_scrape"]
+# collection = db['products']
+collection = db['products_scraped']
 
 websites_to_scrape = ['amazon', 'ebay', 'kuantokusta']
+
 
 def scrape_website(website_name, term):
     params = {
@@ -30,13 +31,16 @@ def scrape_website(website_name, term):
     }
     return res
 
+
 class JSONEncoder(json.JSONEncoder):
     def default(self, o):
         if isinstance(o, ObjectId):
             return str(o)
         return json.JSONEncoder.default(self, o)
 
+
 app = Flask(__name__)
+
 
 @app.route('/<term>')
 def scrape(term):
@@ -47,6 +51,7 @@ def scrape(term):
         response.update(website_data)
 
     return response
+
 
 @app.route('/lowest/<term>')
 def scrapeLowest(term):
@@ -59,7 +64,7 @@ def scrapeLowest(term):
     elem_count = 0
     for element in data:
         elem_count += 1
-        
+
         del element["id"]
         element["id"] = elem_count
 
@@ -79,6 +84,7 @@ def scrapeLowest(term):
 
     return jsonify(newSortedList)
 
+
 @app.route('/previous')
 def getPreviousData():
     results = []
@@ -91,8 +97,9 @@ def getPreviousData():
 
     return jsonify(results)
 
+
 if __name__ == '__main__':
     app.run(debug=True, port=1234)
 
-#source venv/bin/activate
-#scrapyrt -p 3000 --> para começar a "api" do scrapy
+# source venv/bin/activate
+# scrapyrt -p 3000 --> para começar a "api" do scrapy

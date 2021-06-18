@@ -15,8 +15,11 @@ class ProductscraperPipeline:
             'localhost',
             27017
         )
-        db = self.conn['products']
-        self.collection = db['products']
+        # db = self.conn['products']
+        # self.collection = db['products']
+
+        db = self.conn['products_scrape']
+        self.collection = db['products_scraped']
 
     def process_item(self, item, spider):
         self.collection.insert(dict(item))
