@@ -2,17 +2,26 @@ from __future__ import unicode_literals
 import json
 import requests
 from bson import ObjectId
+import pandas as pd
 
 from flask import Flask, jsonify
 from pymongo import MongoClient
 
+from classification.decision_tree_classification import classification
+from classification.decision_tree_classification import mapping_fields
+
 cluster = MongoClient('localhost', 27017)
-# db = cluster["products"]
 db = cluster["products_scrape"]
-# collection = db['products']
 collection = db['products_scraped']
 
 websites_to_scrape = ['amazon', 'ebay', 'kuantokusta']
+
+
+def mongo_collection_to_csv(query={}):
+    cursor = collection.find(query)
+    df = pd.DataFrame(list(cursor))
+
+    df.to_csv('../classification/products_scraped.csv', index=False)
 
 
 def scrape_website(website_name, term):
@@ -92,10 +101,29 @@ def getPreviousData():
     # for product in collection.find({"name": "/.*" + name + ".*/"}):
     for product in collection.find():
         product['_id'] = str(product['_id'])
-        product["scrape_date"] = product["scrape_date"].strftime("%m/%d/%Y, %H:%M:%S")
+        product["scrape_date_time"] = product["scrape_date_time"].strftime("%m/%d/%Y, %H:%M:%S")
         results.append(product)
 
     return jsonify(results)
+
+
+@app.route('/predict/<hundred>/<store>/<term>')
+def predict(hundred, store, term):
+    mongo_collection_to_csv({"price": {"$ne": "Not specified"}})
+    prediction = classification(hundred, store, term)
+
+    return prediction
+
+
+@app.route('/predict/mapping/<field>')
+def predict_mapping_field(field):
+    if field == 'stores':
+        mapped_field = mapping_fields(True, False)
+
+    if field == 'terms':
+        mapped_field = mapping_fields(False, True)
+
+    return mapped_field
 
 
 if __name__ == '__main__':

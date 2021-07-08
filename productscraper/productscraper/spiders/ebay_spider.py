@@ -1,5 +1,5 @@
 import scrapy
-from ..items import ProductscraperItem
+import re
 from datetime import datetime
 
 
@@ -28,10 +28,12 @@ class EbaySpider(scrapy.Spider):
             if prod_price is None:
                 prod_price = 'Not specified'
             else:
-                prod_price = prod_price.replace('EUR ','')
+                prod_price = prod_price.replace('EUR ', '')
 
-            if prod_price != 'Not specified':
-                prod_price_hundred = round(float(prod_price.replace(',', '.')), -2)
+            if prod_price != 'Not specified' and ',' in prod_price:
+                prod_price = re.sub('\s+', '', prod_price)
+                prod_price = prod_price.replace(',', '.')
+                prod_price_hundred = round(float(prod_price), -2)
 
             if self.term == 'favicon.ico':
                 self.term = 'none'
@@ -52,4 +54,8 @@ class EbaySpider(scrapy.Spider):
                     'scrape_date': scrape_date,
                     'term': self.term
                 }
-        #TODO: next page
+        next_page = response.css('.pagination__next').xpath('@href').get()
+        print(next_page)
+        if next_page is not None:
+            print('entered')
+            yield scrapy.Request(next_page, callback=self.parse, dont_filter=True)

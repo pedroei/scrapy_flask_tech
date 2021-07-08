@@ -1,5 +1,5 @@
 import scrapy
-from ..items import ProductscraperItem
+import re
 from datetime import datetime
 
 
@@ -31,8 +31,10 @@ class KuantoKustaSpider(scrapy.Spider):
             else:
                 prod_price = prod_price.split("\u20ac", 1)[0]
 
-            if prod_price != 'Not specified':
-                prod_price_hundred = round(float(prod_price.replace(',', '.')), -2)
+            if prod_price != 'Not specified' and ',' in prod_price:
+                prod_price = re.sub('\s+', '', prod_price)
+                prod_price = prod_price.replace(',', '.')
+                prod_price_hundred = round(float(prod_price), -2)
 
             if prod_img == '/responsive/imgs/kk-lazing-loading.gif':
                 prod_img = products.css('.img-responsive').xpath('@onerror').get().replace("this.src = '", "").replace("'", "")
@@ -56,15 +58,9 @@ class KuantoKustaSpider(scrapy.Spider):
                     'scrape_date': scrape_date,
                     'term': self.term
                 }
-        #TODO: next page
 
-
-        #items = ProductscraperItem()
-
-        #product_name = response.css('.product-item-name::attr(title)').extract()
-        #product_price = response.css('.big-price-interval::text').extract()
-        
-        #items['product_name'] = product_name
-        #items['product_price'] = product_price
-
-        #yield items
+        next_page = response.css('li.ais-pagination--item.pagination-item.ais-pagination--item__next>a.ais-pagination--link').xpath('@href').get()
+        print(next_page)
+        if next_page is not None:
+            print('entered')
+            yield scrapy.Request(next_page, callback=self.parse, dont_filter=True)
