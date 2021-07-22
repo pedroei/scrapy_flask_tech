@@ -12,7 +12,7 @@ from classification.decision_tree_classification import mapping_fields
 
 cluster = MongoClient('localhost', 27017)
 db = cluster["products_scrape"]
-collection = db['products_scraped']
+collection = db['products']
 
 websites_to_scrape = ['amazon', 'ebay', 'kuantokusta']
 
@@ -78,7 +78,7 @@ def scrapeLowest(term):
         element["id"] = elem_count
 
         if element["price"] != "Not specified":
-            element["price"] = element["price"].replace(".", "").replace('\xa0', '')
+            # element["price"] = element["price"].replace(".", "").replace('\xa0', '')
             element["price"] = float(element["price"].replace(",", "."))
         else:
             element["price"] = 0

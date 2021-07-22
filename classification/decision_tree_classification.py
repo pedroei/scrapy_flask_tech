@@ -3,10 +3,16 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn import tree
 
 
-def classification(hundred=100, store=0, term=0, csv_path='../classification/products_scraped.csv'):
+def classification(hundred=100, store=0, term=0,
+                   csv_path='../classification/products_scraped.csv'):
+
     df = pd.read_csv(csv_path)
 
-    inputs = df.drop(columns=['_id', 'id', 'image', 'link', 'price', 'scrape_date_time', 'name', 'scrape_date'])
+    inputs = df.drop(
+        columns=['_id', 'id', 'image',
+                 'link', 'price',
+                 'scrape_date_time',
+                 'name', 'scrape_date'])
     target = df['price']
 
     le_store = LabelEncoder()

@@ -31,8 +31,6 @@ class AmazonSpider(scrapy.Spider):
             if prod_price != 'Not specified' and ',' in prod_price:
                 prod_price = re.sub('\s+', '', prod_price)
                 prod_price = prod_price.replace(',', '.')
-                if prod_price.count('.'):
-                    prod_price = prod_price.replace('.', '', 1)
                 prod_price_hundred = round(float(prod_price), -2)
 
             if prod_link is not None:
